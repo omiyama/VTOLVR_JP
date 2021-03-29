@@ -8,6 +8,7 @@ VTOL VR の日本語翻訳ファイルを共有し作成・修正するプロジ
 このプロジェクトに関するフィードバック、意見、質問、翻訳などありましたらDiscordサーバーでお願いします。
 
 [プロジェクトリンク]
+MainSite: https://wiki3.jp/VTOL_VR
 GitHub  : https://github.com/omiyama/VTOL_VR_JP
 Discord : https://discord.gg/abHTBGubxf
 
