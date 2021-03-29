@@ -10,3 +10,5 @@ VTOL VR の日本語翻訳ファイルを共有し作成・修正するプロジ
 [プロジェクトリンク]
 GitHub  : https://github.com/omiyama/VTOL_VR_JP
 Discord : https://discord.gg/abHTBGubxf
+
+
