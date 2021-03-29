@@ -1,0 +1,11 @@
+Key,Description,en,ja
+MissionText_776118,UI Text,"Align your seat with the virtual chair.
+
+Equip helmet when ready.","リアルのシート位置とVRゲーム内の
+シート位置を合わせてください。
+右のヘルメットを頭にかぶってください。"
+Ready_776022,UI Text,READY,出発準備室
+LoadingText_775290,UI Text,LOADING,ロード中
+loading_helmet,VR Interactable,Equip when ready.,準備ができたらヘルメットを持ってかぶってください
+recenterInteractable_-28298290,VR Interactable,Re-center,
+Text_-28298296,UI Text,Re-center Seat,シート位置をリセット
