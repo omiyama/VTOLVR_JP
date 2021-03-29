@@ -449,11 +449,11 @@ MFDOption:Attack Target,Label of an MFD option,Attack Target,攻撃目標
 MFDOption:Disengage,Label of an MFD option,Disengage,戦闘離脱
 MFDOption:Engage,Label of an MFD option,Engage,戦闘開始
 MFDOptionPage:Wingmen / Flight,Title of an MFD option page,Wingmen / Flight,僚機／フライト
-MFDOption:Orbit Here,Label of an MFD option,Orbit Here,ここで旋回待機
+MFDOption:Orbit Here,Label of an MFD option,Orbit Here,旋回待機
 MFDOption:Form Up,Label of an MFD option,Form Up,部隊復帰
-MFDOption:Spread Close,Label of an MFD option,Spread Close,
-MFDOption:Spread Med,Label of an MFD option,Spread Med,
-MFDOption:Spread Far,Label of an MFD option,Spread Far,
+MFDOption:Spread Close,Label of an MFD option,Spread Close,間隔　近く
+MFDOption:Spread Med,Label of an MFD option,Spread Med,間隔　中間
+MFDOption:Spread Far,Label of an MFD option,Spread Far,間隔　遠く
 MFDOption:Go Refuel,Label of an MFD option,Go Refuel,給油に向かえ
 MFDOption:RTB,Label of an MFD option,RTB,
 MFDOption:RTB & Re-arm,Label of an MFD option,RTB & Re-arm,基地に戻り再装備
@@ -469,7 +469,7 @@ MFDOption:Request Re-arm,Label of an MFD option,Request Re-arm,再装備リク�
 MFDOptionPage:ATC,Title of an MFD option page,ATC,
 MFDOption:Take Off,Label of an MFD option,Take Off,テイクオフ
 MFDOption:Landing,Label of an MFD option,Landing,ランディング
-MFDOption:Cancel Request,Label of an MFD option,Cancel Request,
+MFDOption:Cancel Request,Label of an MFD option,Cancel Request,リクエスト取消
 MFDOption:Vert T/O,Label of an MFD option,Vert T/O,垂直テイクオフ
 MFDOption:Vert Landing,Label of an MFD option,Vert Landing,垂直ランディング
 MFDOption:Last Contact,Label of an MFD option,Last Contact,最後のコンタクト

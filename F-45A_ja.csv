@@ -105,9 +105,10 @@ Text (1)_395816,UI Text,FUEL,燃料
 Text_914572,Internal fuel,INTERNAL,内部
 Text_912264,External Fuel,EXTERNAL,外部
 fuelDrainLabel_916118,UI Text,FUEL DRAIN,燃料消費
-estTimeLabel_913460,UI Text,EST TIME,
+estTimeLabel_913460,UI Text,EST TIME,飛行可能時間
 estDistLabel_913976,UI Text,"EST DIST
-",
+","飛行可能距離
+"
 twrLabel_914716,UI Text,MAX TWR,最高推重比
 SwapButton_916316,VR Interactable,Swap Displays,表示入れ替え
 Text_911674,UI Text,SWAP,
@@ -128,7 +129,7 @@ HeadModeText_915908,UI Text,"USE HELMET VISOR/HMCS
 AUGMENTED VIEW ENABLED",
 gimbalLimit_913148,UI Text,GIMBAL LIMIT,
 ModeButton_914818,VR Interactable,Targeting Mode,ターゲティングモード
-tgpMode (1)_912938,UI Text,MODE,モード
+tgpMode (1)_912938,UI Text,MODE,
 SensButton_914330,VR Interactable,Sensor Mode,センサーモード
 txt_912372,UI Text,SENS,センサー
 SOI Button_915502,VR Interactable,Toggle SOI,これを操作対象とする
@@ -179,7 +180,7 @@ Title_915426,UI Text,COMMS,通信
 Title_915150,UI Text,Spectator Camera,
 PreviewBtn_912556,VR Interactable,Toggle Preview,プレビューの切替
 txt_914652,UI Text,PREVIEW,プレビュー
-AutoFOVText_913340,UI Text,AutoFOV,自動視野角
+AutoFOVText_913340,UI Text,AutoFOV,自動FOV
 StartButton_912580,VR Interactable,Start,スタート
 txt_929168,UI Text,START,スタート
 StopButton_916412,VR Interactable,Stop,ストップ
@@ -231,9 +232,9 @@ R",
 Subsized_915030,UI Text,TSD,
 eqNameText_930458,UI Text,VEHICLE OPTIONS,機体設定
 JoyModeText_916046,VR Interactable,Joystick Mode,ジョイスティックモード
-JoyModeText_txt_-2288018,UI Text,JOYSTICK MODE,ジョイスティックモード
+JoyModeText_txt_-2288018,UI Text,JOYSTICK MODE,
 JoySensText_-6385166,VR Interactable,Joystick Sensitivity,ジョイスティックの感度
-JoySensText_txt_-2287244,UI Text,JOY SENS,ジョイスティック感度
+JoySensText_txt_-2287244,UI Text,JOY SENS,JOY感度
 UnitsButton_2553924,VR Interactable,Unit Options,単位設定
 UnitsButton_txt_-3699322,UI Text,UNITS,単位
 AltWarnButton_265846,VR Interactable,Altitude Warning Options,高度警告設定

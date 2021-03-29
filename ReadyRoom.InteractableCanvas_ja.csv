@@ -167,7 +167,7 @@ MiscCat_691360,VR Interactable,Miscellaneous,その他
 Text_691290,UI Text,Misc,その他
 Image_746964,VR Interactable,Toggle Voice,音声の切り替え
 SampleButton_741706,VR Interactable,Play Sample,サンプル音声視聴
-SettingsTitle_746874,UI Text,Input binding,バインド設定のインプット
+SettingsTitle_746874,UI Text,Input binding,バインド設定
 ActionLabel_743972,UI Text,Action,動作
 ControllerLabel_740058,UI Text,Controller,コントローラー
 AxisLabel_740550,UI Text,Axis,軸

@@ -93,19 +93,19 @@ Text (1)_955806,UI Text,FUEL,燃料
 Text_955420,Internal Fuel,INTERNAL,内部
 Text_955022,External Fuel,EXTERNAL,外部
 fuelDrainLabel_955210,UI Text,FUEL DRAIN,燃料消費
-estTimeLabel_952850,UI Text,EST TIME,
-estDistLabel_956560,UI Text,EST DISTANCE,
-twrLabel_952686,UI Text,MAX TWR,最高推重比
+estTimeLabel_952850,UI Text,EST TIME,飛行可能時間
+estDistLabel_956560,UI Text,EST DISTANCE,飛行可能距離
+twrLabel_952686,UI Text,MAX TWR,最高推重比（TWR）
 RWRButton_952182,VR Interactable,RWR,レーダー警報装置
 powButtonMMFDLeft_953178,VR Interactable,Power (MMFD Left),MMFD電源（左）
 FuelText_952778,UI Text,"F
 U
 E
-L",燃
+L",
 InfoText_952704,UI Text,"I
 N
 F
-O",情
+O",
 powButtonMMFDRight_955652,VR Interactable,Power (MMFD Right),MMFD電源（右）
 fuelButton_955472,VR Interactable,Fuel,燃料
 fuelDrainButton_953542,VR Interactable,Info,情報
@@ -124,7 +124,7 @@ GROUP",新しい
 pathLabel_955452,UI Text,PATH,経路
 Title_953670,UI Text,"Spectator
 Camera",
-AutoFOVText_952996,UI Text,AutoFOV,自動視野角
+AutoFOVText_952996,UI Text,AutoFOV,自動FOV
 FOVText ButtonLabel_954546,UI Text,SCAN ANGLE,スキャン角度
 title_953028,UI Text,"LOCK
 B
@@ -179,8 +179,8 @@ VRコントローラーの
 押すとリセットされます"
 AltModeLabel_953220,UI Text,UNITS,単位
 unitOptsText_621558,UI Text,ALT WARN,高度警告
-JoyModeText_952514,UI Text,JOYSTICK MODE,ジョイスティックモード
-JoyModeText_368540,UI Text,JOY SENS,ジョイスティック感度
+JoyModeText_952514,UI Text,JOYSTICK MODE,
+JoyModeText_368540,UI Text,JOY SENS,JOY感度
 eqNameText_621662,UI Text,UNIT OPTIONS,単位設定
 AltModeLabel_614816,UI Text,Alt Units,高度単位
 DistModeLabel_954954,UI Text,Dist Units,距離単位
@@ -191,7 +191,7 @@ BingoAdjustTitle_621278,UI Text,BINGO LEVEL,燃料警告レベル
 eqNameText_620238,UI Text,ALTITUDE WARNINGS,高度警告
 title_620100,UI Text,MIN ALTITUDE,最低高度
 title_619128,UI Text,MAX ALTITUDE,最高高度
-modeTitle_620000,UI Text,MODE,モード
+modeTitle_620000,UI Text,MODE,
 hpequip_armedText,Label when an equip is armed,ARMED,
 hpEquip_jettisonText,Label when an equip is marked for jettison,JETTISON,投棄
 MFD1PowerInteractable_955984,VR Interactable,MFD Power,MFD電源

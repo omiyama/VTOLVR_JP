@@ -110,8 +110,8 @@ Text_856940,UI Text,"VR MFCD
 SaveToDiskText_857186,UI Text,Save to Disk,ディスクに保存
 Title_856292,UI Text,"Spectator
 Camera",
-AutoFOVText_857446,UI Text,AutoFOV,自動視野角
-Title_859956,UI Text,HARDPOINTS,ハードポイント
+AutoFOVText_857446,UI Text,AutoFOV,自動FOV
+Title_859956,UI Text,HARDPOINTS,装　備　
 JettisonText_859418,UI Text,ARMED,
 JettisonText_857292,UI Text,JETTISON,投棄
 BackText_856938,UI Text,BACK,戻る
@@ -166,7 +166,7 @@ eqNameText_930458,UI Text,VEHICLE OPTIONS,機体設定
 AltModeLabel_953220,UI Text,UNITS,単位
 unitOptsText_702428,UI Text,FUEL,燃料
 unitOptsText_702142,UI Text,ALT WARN,高度警告
-JoyModeText_952514,UI Text,JOY SENS,ジョイスティック感度
+JoyModeText_952514,UI Text,JOY SENS,JOY感度
 eqNameText_701656,UI Text,UNIT OPTIONS,単位設定
 Text_954730,UI Text,"Sit comfortably
 and press menu
@@ -186,7 +186,7 @@ BingoAdjustTitle_-439040,UI Text,BINGO LEVEL,燃料警告レベル
 eqNameText_701974,UI Text,ALTITUDE WARNINGS,高度警告
 title_702284,UI Text,MIN ALTITUDE,最低高度
 title_701018,UI Text,MAX ALTITUDE,最高高度
-modeTitle_702386,UI Text,MODE,モード
+modeTitle_702386,UI Text,MODE,
 MFD1PowerInteractable_856422,VR Interactable,MFD Power (Left),MFD電源（左）
 MFDBrightnessKnob_858866,VR Interactable,MFD Brightness,MFD輝度
 MFD2PowerInteractable_856476,VR Interactable,MFD Power (Center),MFD電源（中）
@@ -199,19 +199,19 @@ W
 R",
 Text_859504,UI Text,VRMMFD v1.6,
 fuelDrainLabel_859218,UI Text,FUEL DRAIN,燃料消費
-estTimeLabel_856372,UI Text,EST TIME,
-estDistLabel_856044,UI Text,EST DISTANCE,
+estTimeLabel_856372,UI Text,EST TIME,飛行可能時間
+estDistLabel_856044,UI Text,EST DISTANCE,飛行可能距離
 twrLabel_858560,UI Text,MAX TWR,最高推重比
 RWRButton_857352,VR Interactable,RWR,レーダー警報装置
 powButtonMMFDLeft_859524,VR Interactable,Power (MMFD Left),MMFD電源（左）
 FuelText_858474,UI Text,"F
 U
 E
-L",燃
+L",
 InfoLabel_857034,UI Text,"I
 N
 F
-O",情
+O",
 powButtonMMFDRight_855584,VR Interactable,Power (MMFD Right),MMFD電源（右）
 infoButton_859450,VR Interactable,Fuel Info,燃料情報
 fuelButton_855474,VR Interactable,Fuel,燃料
