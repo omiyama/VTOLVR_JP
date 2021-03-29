@@ -1,0 +1,28 @@
+Key,Description,en,ja
+cloudDiagnostics_title,UI Text,Cloud Diagnostics,クラウド診断
+cloudDiagnostics_descript,UI Text,"Would you like to opt-in to enable cloud diagnostics? Anonymous information such as error messages, system specifications, and game version will be sent to the developer to help track down bugs and provide a smoother game experience. It would be a huge help! This setting can be changed at any time in the game settings menu.",クラウド診断をしていただけませんか？ エラーメッセージ、システム仕様、ゲームのバージョンなどの情報は、バグの発見や、よりスムーズなゲーム体験のために、匿名で開発者に送られます。 これがあれば大助かりです。 この設定は、ゲーム設定メニューでいつでも変更することができます。
+Text (2)_761854,UI Text,Accept,了解
+Text (2)_757242,UI Text,Deny,いいえ
+news_workshop,Workshop notification window,"Download, play, and rate community-made missions and campaigns without leaving VR!
+
+Upload custom missions and maps in VTEditor!","HMDを外すことなくコミュニティで作成されたミッションやキャンペーンをダウンロードし、プレイし、評価することができます。
+
+VTエディターを使って、自作のミッションやマップをアップロードしましょう！"
+quitButton_709596,VR Interactable,Quit Game,ゲームを終了
+quitButtonText_711462,UI Text,Quit,終了
+acceptEulaToPlay_655458,UI Text,Accept EULA to play,EULAに同意して開始する
+startGameButton_714120,VR Interactable,Start Game,ゲームを開始
+startGameLabel_705546,UI Text,Start Game,ゲームを開始
+disclaimerText_707784,UI Text,"Motion Sickness Warning:
+This game may induce motion sickness.  
+It may take some time to get used to, but the feeling of nausea will diminish with practice. 
+
+If at any point you feel nauseous, please remove the HMD and take a break.","乗り物酔い注意。
+このゲームでは、めまいを起こすことがあります。慣れるまで時間がかかるかもしれませんが、練習すればめまいは軽減されます。
+
+違和感を感じたら、ヘッドマウントディスプレイを外して、少し休憩してください。"
+Title_764004,UI Text,Language,言語
+AcceptButton_766562,VR Interactable,Accept,了解
+DenyButton_760444,VR Interactable,Deny,いいえ
+SelectLangButton_2211708,VR Interactable,Select Language,言語の選択
+Handle_759118,VR Interactable,Scroll,スクロール
