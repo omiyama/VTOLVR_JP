@@ -1,0 +1,189 @@
+Key,Description,en,ja
+DemoText_746066,UI Text,DEMO,デモ
+SelectPilotButton_745718,VR Interactable,Select Existing Pilot,パイロット選択
+Text_742314,UI Text,Select Pilot,パイロット選択
+NewPilotButton_745346,VR Interactable,Create New Pilot,新しいパイロット作成
+Text_742072,UI Text,New Pilot,新しいパイロット
+QuitButton_740624,VR Interactable,Quit Game,
+Text_742474,UI Text,QUIT,終了
+SettingsButton_747456,VR Interactable,Settings,設定
+Text_740102,UI Text,"Settings
+",設定
+CreditsButton_-102322,VR Interactable,Game Credits,クレジット
+Text_726044,UI Text,Credits,クレジット
+VTOL VR (1)_747232,UI Text,VTEDIT,VTEDIT
+EditorButton_743918,VR Interactable,Mission Editor,ミッションエディタ
+MapEditorButton_747578,VR Interactable,Map Editor,マップエディタ
+VTEDIT (1)_729932,UI Text,VT,VT
+VTOL VR_744834,UI Text,VTOL VR,VTOL VR
+Text_ACReadyToFly,UI Text,Ready to fly?,飛行の準備はできましたか？
+Text_AC_SelectVehicle,UI Text,Select Vehicle,機体選択
+Text_ACNewPilot,UI Text,New Pilot?,新しいパイロットを作成しますか？
+Tutorials Button_-4966024,VR Interactable,Tutorials,チュートリアル
+Text_ACTutorial,UI Text,Tutorial,チュートリアル
+Label_514208,UI Text,Pilot Name:,パイロット名：
+EditNameButton_745868,VR Interactable,Edit Name,名前入力
+Text_743158,UI Text,Edit name,名前入力
+BackButton_744184,VR Interactable,Back To Main,メイン画面へ
+Text_742734,UI Text,Back,戻る
+StartButton_745400,VR Interactable,Start New Pilot,新しいパイロットで開始
+Text_744692,UI Text,Start,
+InvalidName_740436,UI Text,[ Invalid Name ],[無効な名前]
+DeleteButton_740016,VR Interactable,Delete Pilot,パイロットを削除
+PILOTS_745628,UI Text,Pilots,PILOTS
+NextPilotButton_747706,VR Interactable,Next Pilot,次のパイロット
+PrevPilotButton_741810,VR Interactable,Previous Pilot,前のパイロット
+AreYouSure_743668,UI Text,Are you sure you want to delete?,本当に削除しますか？
+Text_740860,UI Text,"Yes, Delete",削除
+NoDeleteButton_743870,VR Interactable,Cancel Delete,キャンセル
+Text_745554,UI Text,"No, keep",そのまま
+PILOTS_740912,UI Text,NO PILOTS,パイロットがいません
+PilotName_742564,UI Text,BDynamics,BDynamics
+Pilot name_744616,UI Text,Pilot name,パイロット名
+EditPilotColorsButton_741944,VR Interactable,Edit Colors,色の変更
+WorkshopBrowserButton_747088,VR Interactable,Steam Workshop Browser,Steamワークショップ
+Text_509830,UI Text,Steam Workshop,
+VEHICLES_747786,UI Text,VEHICLES,機体
+Text_743784,UI Text,SELECT VEHICLE,機体の選択
+NextVehButton_747140,VR Interactable,Next Vehicle,次の機体
+PrevVehButton_746350,VR Interactable,Previous Vehicle,前の機体
+NO VEHICLES_740194,UI Text,NO VEHICLES,機体がありません
+Title_731538,UI Text,TUTORIALS,チュートリアル
+NextButton_-4973280,VR Interactable,Next Tutorial,次のチュートリアル
+PrevButton_-4973282,VR Interactable,Previous Tutorial,前のチュートリアル
+SelectButton_-645320,VR Interactable,Select Tutorial,チュートリアル選択
+Text_-645448,UI Text,Select,選択
+Text_-645234,UI Text,Radar,レーダー
+Text_-645284,UI Text,F/A-26B,F/A-26B
+ScrollInteractable_-645206,VR Interactable,Scroll,スクロール
+Name_747128,UI Text,VTOL VR - Steam Workshop Browser,VTOL VR - Steamワークショップ
+ScenariosButton_746792,VR Interactable,Scenarios,シナリオ
+CampaignsButton_745636,VR Interactable,Campaigns,キャンペーン
+Text_746638,UI Text,Maps,マップ
+Name (1)_747156,UI Text,STEAM WORKSHOP,
+Placeholder_742056,UI Text,search...,検索…
+ButtonSearch_745798,VR Interactable,Search,検索
+SortOrderDropdown_742490,VR Interactable,Sort Dropdown,ドロップダウンソート
+Text_743832,UI Text,Entry Button,エントリーボタン
+AnyVehicleButton_741020,VR Interactable,Any Vehicle,任意の機体
+AV42Button_746716,VR Interactable,AV-42C,AV-42C
+Text_744672,UI Text,AV-42C,AV-42C
+missionTypeText (1)_742360,UI Text,Select vehicle,機体の選択
+F-45AButton_744238,VR Interactable,F-45A,F-45A
+VotesTab_743458,VR Interactable,Votes,投票
+FavesTab_744050,VR Interactable,Favorited,お気に入り
+VotesTxt_747534,UI Text,Faves,お気に入り
+SubsTab_746936,VR Interactable,Subscriptions,登録
+VotesTxt_740374,UI Text,Subs,
+NewTab_744656,VR Interactable,New,
+VotesTxt_740444,UI Text,Newest,最新
+ButtonPrevious_746534,VR Interactable,Previous Page,前のページ
+ButtonNext_743488,VR Interactable,Next Page,次のページ
+Title (1)_741416,UI Text,"Loading 
+steam workshop
+missions","ローディング
+steamワークショップ
+任務（ミッション）"
+Name_742760,UI Text,Error,エラー
+ErrorOkayButton_976098,VR Interactable,Okay,OK
+Title_-645276,UI Text,"Select Campaign
+",キャンペーンの選択
+NextButton_-645330,VR Interactable,Next Campaign,次のキャンペーン
+PrevButton_-645328,VR Interactable,Previous Campaign,前のキャンペーン
+SelectButton_516578,VR Interactable,Select Campaign,キャンペーンの選択
+BackButton_-645324,VR Interactable,Back to Vehicles,機体の選択に戻る
+Text_732522,UI Text,"The Island
+","島（The Island）
+"
+Text_732678,UI Text,Custom Campaigns,カスタムキャンペーン
+ResetButton_-645338,VR Interactable,Reset Campaign,キャンペーンをリセット
+Text_-645444,UI Text,"Reset
+Progress","進捗
+リセット"
+description_-645446,UI Text,Are you sure you want to reset progress on this campaign?,キャンペーンの進捗状況をリセットします。よろしいですか？
+Text_-645584,UI Text,Reset,リセット
+Text_-645592,UI Text,Cancel,キャンセル
+Title (1)_740090,UI Text,"Loading 
+Campaigns & missions...","ローディング
+キャンペーン＆ミッション..."
+Text_-645730,UI Text,No missions found,ミッションが見つかりません
+Title_-645562,UI Text,Select mission,ミッションの選択
+CompletedObject_-645176,UI Text,Completed,完了
+GrantedBudget_-645910,UI Text,Granted Budget: $500,獲得予算: $500
+RTrainingTitle_-645174,UI Text,"Recommended Training: ",推奨のトレーニング：
+Text_-645912,UI Text,FULL VERSION ONLY,完全版のみ
+Text_-645908,UI Text,UNDER CONSTRUCTION,作成中
+Text_-645892,UI Text,CUSTOM MAP MISSING,カスタムマップがありません
+NextButton_-645564,VR Interactable,Next Mission,次のミッション
+PrevButton_-645598,VR Interactable,Previous Mission,前のミッション
+SelectButton_-645578,VR Interactable,Select Mission,ミッション選択
+MissionsButton_-645568,VR Interactable,Missions,ミッション
+Text_732526,UI Text,MISSIONS,ミッション
+TrainingButton_-645594,VR Interactable,Training,トレーニング
+Text_-645732,UI Text,TRAINING,トレーニング
+BackButton_-645608,VR Interactable,Back to Campaigns,キャンペーンに戻る
+triggerToSkip_-645838,UI Text,hold trigger to skip,トリガーを引きっぱなしでスキップします
+titleText_-645888,UI Text,"New Training Mission: ",新しいトレーニングミッション：
+MISSION BRIEFING_744042,UI Text,MISSION BRIEFING,ミッションの説明
+NextNoteButton_743764,VR Interactable,Next Note,次のページ
+Text_742706,UI Text,Next,次のページ
+PrevNoteButton_745262,VR Interactable,Previous Note,前のページ
+Text_744920,UI Text,Previous,前のページ
+FlyButton_740588,VR Interactable,Fly Mission,ミッション開始
+Text_743562,UI Text,Configure,配置
+Text_746416,UI Text,Customize Pilot,パイロットのカスタマイズ
+Label_740562,UI Text,suit,フライトスーツ
+HueUpButton_742114,VR Interactable,Hue Right,右へ
+HueDownButton_744534,VR Interactable,Hue Left,左へ
+Label (1)_740254,UI Text,Hue,色
+SatUpButton_745496,VR Interactable,Saturation Up,濃さアップ
+SatDownButton_741692,VR Interactable,Saturation Down,濃さダウン
+Label (2)_741270,UI Text,Saturation,濃さ
+ValUpButton_747676,VR Interactable,Value Up,明るさアップ
+ValDownButton_747772,VR Interactable,Value Down,明るさダウン
+Label (3)_740798,UI Text,Brightness,明るさ
+Label_741936,UI Text,vest,ベスト
+Label_740984,UI Text,G-Suit,G-スーツ
+Label_746928,UI Text,Straps,ストラップ
+Label_743676,UI Text,skin,肌の色
+AcceptButton_745474,VR Interactable,Accept Changes,変更を適用
+Text_740032,UI Text,Accept,適用
+Button_740788,VR Interactable,Interactable,Interactable
+DecrButton_746112,VR Interactable,Decrease,減少
+IncrButton_743848,VR Interactable,Increase,増加
+PrevSettingsPageButton_745814,VR Interactable,Prev Page,前のページ
+ApplySettingsButton_740876,VR Interactable,Apply Settings,設定を適用
+RevertSettingsButton_745510,VR Interactable,Revert Settings,設定の復元
+Text_744170,UI Text,Revert,復元
+Text_743510,UI Text,Close,閉じる
+BindingsButton_740066,VR Interactable,Open Bindings Menu,バインドメニューを開く
+Text_746038,UI Text,Bindings,
+OpenWingmenButton_742898,VR Interactable,Wingman Voices,ウィングマンの音声
+GameCat_692110,VR Interactable,Game,ゲーム
+ControlsCat_696240,VR Interactable,Controls,コントロール
+AudioCat_692816,VR Interactable,Audio,音声
+VideoCat_695570,VR Interactable,Video,映像
+MiscCat_691360,VR Interactable,Miscellaneous,その他
+Text_691290,UI Text,Misc,その他
+Image_746964,VR Interactable,Toggle Voice,音声の切り替え
+SampleButton_741706,VR Interactable,Play Sample,サンプル音声視聴
+SettingsTitle_746874,UI Text,Input binding,バインド設定のインプット
+ActionLabel_743972,UI Text,Action,動作
+ControllerLabel_740058,UI Text,Controller,コントローラー
+AxisLabel_740550,UI Text,Axis,軸
+SelectCtrlr_744404,UI Text,Select a controller,コントローラーの選択
+BindingsButton_745912,VR Interactable,Bind,バインド
+Text_742080,UI Text,Bind,バインド
+NextCtrlrButton_745738,VR Interactable,Next Controller,次のコントローラー
+PrevCtrlrButton_747542,VR Interactable,Previous Controller,前のコントローラー
+TestLabel_744460,UI Text,Axis Test,軸のテスト
+ClearButton_744128,VR Interactable,Clear Binding,バインディングの解除
+Text_742294,UI Text,Clear,クリア
+InvertButton_731022,VR Interactable,Invert Axis,軸の反転
+Text_724774,UI Text,Invert,反転
+Text_746160,UI Text,Apply,適用
+Title_744764,UI Text,Launch Editor?,エディタを起動しますか？
+Title (1)_740936,UI Text,The mission editor will run on your monitor.,ミッションエディタはVR内ではなく、デスクトップ上に表示されます。
+OkayButton_742216,VR Interactable,Launch Editor,エディタ起動
+BackButton_507224,VR Interactable,Back to Main Menu,メインメニューに戻る
+Title (1)_740580,UI Text,The map editor will run on your monitor.,マップエディタはVR内ではなく、デスクトップ上に表示されます。
