@@ -60,7 +60,7 @@ Label_280922,HUD Unit label (mach),M,
 Text_913428,UI Text,-[ CHECK GEAR ]-,
 Label_913926,UI Text,"HVR
 ALT",
-Label_912198,UI Text,BRAKE,ブレーキ
+Label_912198,UI Text,BRAKE,
 Label_916010,UI Text,"RDR
 BORESIGHT",レーダー
 HudWingFold_914040,UI Text,[ WING FOLD ],

@@ -66,7 +66,7 @@ Label_164444,HUD unit label (g-force),G,
 Label_168976,HUD unit label (mach),M,
 Label_857238,UI Text,"HVR
 ALT",
-Label_857834,UI Text,BRAKE,ブレーキ
+Label_857834,UI Text,BRAKE,
 Text_859476,UI Text,-[ CHECK GEAR ]-,
 Text_703132,UI Text,PULL UP!,
 visorButtonInteractable_855374,VR Interactable,Toggle Visor,バイザー切替

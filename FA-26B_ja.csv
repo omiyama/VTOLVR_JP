@@ -261,7 +261,7 @@ Label_205078,HUD Unit label (mach),M,
 Text_955612,UI Text,-[ CHECK GEAR ]-,
 Label_953774,UI Text,"HVR
 ALT",ホバー
-Label_953448,UI Text,BRAKE,ブレーキ
+Label_953448,UI Text,BRAKE,
 Label_953434,UI Text,"RDR
 BORESIGHT",レーダー
 HudWingFold_956664,UI Text,[ WING FOLD ],
