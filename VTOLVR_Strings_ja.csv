@@ -1748,7 +1748,9 @@ Several airbases and a carrier are available for you to use for rearming and ref
 
 航空基地が複数あり、空母も用意されているので、弾薬の補充や給油も可能です。"
 fa26bFreeFlight_2v2dogfight_b0,Text from a mission briefing.,"In this scenario, you will start in the air with a wingman.  Fly towards the island and take out the two enemy fighters.",このシナリオでは、僚機と一緒に空中からスタートします。 島に飛んで、敵の戦闘機2機を撃墜する。
-fa26bFreeFlight_carrierLandingPractice_b0,Text from a mission briefing.,"You will start in the air near the carrier.  Find it, then circle around for a landing approach.",空母の近くの空からスタートします。 見つけたら、ホバリングして着地してください。
+fa26bFreeFlight_carrierLandingPractice_b0,Text from a mission briefing.,"You will start in the air near the carrier.  Find it, then circle around for a landing approach.","空母の近くの空からスタートします。
+
+空母を見つけたら十分距離をとって、慎重に着艦してください。"
 fa26bFreeFlight_FA26Difficult_b0,Text from a mission briefing.,"Several enemy air, land, and naval units are scattered around the island.
 Complete each of the mission objectives and return to the carrier.","島には複数の敵の陸・海・空のユニットが点在しています。
 各ミッションの目的を達成し、空母に戻ってください。"
