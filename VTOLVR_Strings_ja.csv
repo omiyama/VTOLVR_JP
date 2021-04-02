@@ -252,13 +252,13 @@ s_eqMode_2,Equip MFD page mode label,JETTISON,投棄
 rwrMode_0,RWR mode,On,オン
 rwrMode_1,RWR mode,Silent,サイレント
 rwrMode_2,RWR mode,Off,オフ
-F/A-26B_mfd_cam:B3,Label for an MFD button (short!).,PREV,
-F/A-26B_mfd_cam:B5,Label for an MFD button (short!).,NEXT,
-F/A-26B_mfd_home:B1,Label for an MFD button (short!).,NAV,
+F/A-26B_mfd_cam:B3,Label for an MFD button (short!).,PREV,前
+F/A-26B_mfd_cam:B5,Label for an MFD button (short!).,NEXT,次
+F/A-26B_mfd_home:B1,Label for an MFD button (short!).,NAV,ナビ
 F/A-26B_mfd_home:B1_tooltip,Tooltip for an MFD button.,Navigation,ナビゲーション
-F/A-26B_mfd_home:B2,Label for an MFD button (short!).,OBJ,
+F/A-26B_mfd_home:B2,Label for an MFD button (short!).,OBJ,目標
 F/A-26B_mfd_home:B2_tooltip,Tooltip for an MFD button.,Objectives,ミッション目標
-F/A-26B_mfd_home:B3,Label for an MFD button (short!).,CAM,
+F/A-26B_mfd_home:B3,Label for an MFD button (short!).,CAM,カメラ
 F/A-26B_mfd_home:B3_tooltip,Tooltip for an MFD button.,External Cameras,外部カメラ
 F/A-26B_mfd_home:B4,Label for an MFD button (short!).,TGP,
 F/A-26B_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,ターゲッティングポッド
@@ -266,21 +266,21 @@ F/A-26B_mfd_home:B5,Label for an MFD button (short!).,GPS,
 F/A-26B_mfd_home:B5_tooltip,Tooltip for an MFD button.,GPS Targets,GPS ターゲット
 F/A-26B_mfd_home:R2,Label for an MFD button (short!).,S-CAM,
 F/A-26B_mfd_home:R2_tooltip,Tooltip for an MFD button.,Spectator Camera,観客カメラ
-F/A-26B_mfd_home:R3,Label for an MFD button (short!).,GAME,
+F/A-26B_mfd_home:R3,Label for an MFD button (short!).,GAME,ゲーム
 F/A-26B_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,ゲームメニュー
-F/A-26B_mfd_home:R4,Label for an MFD button (short!).,LOG,
+F/A-26B_mfd_home:R4,Label for an MFD button (short!).,LOG,ログ
 F/A-26B_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Log,フライトログ
-F/A-26B_mfd_home:L2,Label for an MFD button (short!).,EQUIP,
+F/A-26B_mfd_home:L2,Label for an MFD button (short!).,EQUIP,装備
 F/A-26B_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,マウントした装備
-F/A-26B_mfd_home:L3,Label for an MFD button (short!).,OPTION,
+F/A-26B_mfd_home:L3,Label for an MFD button (short!).,OPTION,設定
 F/A-26B_mfd_home:L3_tooltip,Tooltip for an MFD button.,Options,オプション
-F/A-26B_mfd_home:L4,Label for an MFD button (short!).,COMMS,
+F/A-26B_mfd_home:L4,Label for an MFD button (short!).,COMMS,通信
 F/A-26B_mfd_home:L4_tooltip,Tooltip for an MFD button.,Communications,通信
-F/A-26B_mfd_home:T4,Label for an MFD button (short!).,RADAR,
+F/A-26B_mfd_home:T4,Label for an MFD button (short!).,RADAR,レーダー
 F/A-26B_mfd_home:T4_tooltip,Tooltip for an MFD button.,Radar,レーダー
 F/A-26B_mfd_home:T5,Label for an MFD button (short!).,ARAD,
 F/A-26B_mfd_home:T5_tooltip,Tooltip for an MFD button.,Anti-Radar Attack Display,アンチレーダーアタック表示
-F/A-26B_mfd_home:R5,Label for an MFD button (short!).,DATA,
+F/A-26B_mfd_home:R5,Label for an MFD button (short!).,DATA,データ
 F/A-26B_mfd_home:R5_tooltip,Tooltip for an MFD button.,Flight Data,フライトデータ
 F/A-26B_mfd_home:L5,Label for an MFD button (short!).,CMS,
 F/A-26B_mfd_home:L5_tooltip,Tooltip for an MFD button.,Countermeasue System,対抗システム
@@ -291,11 +291,11 @@ F/A-26B_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,�
 dashMissionDisplay_noMissions,Label in the mission objectives display when the current mission has no objectives.,No objectives.,ミッション目標はありません
 F/A-26B_mfd_mission:B1,Label for an MFD button (short!).,WPT,
 F/A-26B_mfd_mission:B1_tooltip,Tooltip for an MFD button.,Set Waypoint,ウェイポイントセット
-F/A-26B_mfd_mission:B3,Label for an MFD button (short!).,NEXT,
+F/A-26B_mfd_mission:B3,Label for an MFD button (short!).,NEXT,次
 F/A-26B_mfd_mission:B3_tooltip,Tooltip for an MFD button.,Next Objective,次の目標へ
-F/A-26B_mfd_mission:B5,Label for an MFD button (short!).,PREV,
+F/A-26B_mfd_mission:B5,Label for an MFD button (short!).,PREV,前
 F/A-26B_mfd_mission:B5_tooltip,Tooltip for an MFD button.,Previous Objective,前の目標へ
-F/A-26B_mfd_gpsTgts:T2,Label for an MFD button (short!).,MAP,
+F/A-26B_mfd_gpsTgts:T2,Label for an MFD button (short!).,MAP,マップ
 F/A-26B_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,ナビマップ
 F/A-26B_mfd_gpsTgts:T3,Label for an MFD button (short!).,WPT,
 F/A-26B_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,ウェイポイントセット
@@ -310,13 +310,13 @@ F/A-26B_mfd_gpsTgts:R1_tooltip,Tooltip for an MFD button.,Toggle Path Mode,経�
 F/A-26B_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,上へ
 F/A-26B_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,下へ
 s_mfdGps_path,MFD GPS page PATH toggle button/label,PATH,経路
-F/A-26B_mfd_flyCam:B2,Label for an MFD button (short!).,START,
+F/A-26B_mfd_flyCam:B2,Label for an MFD button (short!).,START,開始
 F/A-26B_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,カメラスタート
-F/A-26B_mfd_flyCam:B3,Label for an MFD button (short!).,END,
+F/A-26B_mfd_flyCam:B3,Label for an MFD button (short!).,END,終了
 F/A-26B_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,カメラ停止
 F/A-26B_mfd_flyCam:B1,Label for an MFD button (short!).,VIEW,
 F/A-26B_mfd_flyCam:B1_tooltip,Tooltip for an MFD button.,Toggle Preview,プレビュー切替
-F/A-26B_mfd_flyCam:R1,Label for an MFD button (short!).,RANDM,
+F/A-26B_mfd_flyCam:R1,Label for an MFD button (short!).,RANDM,ランダム
 F/A-26B_mfd_flyCam:R1_tooltip,Tooltip for an MFD button.,Toggle Random,ランダム切替
 F/A-26B_mfd_flyCam:L3,Label for an MFD button (short!).,FOV:,
 F/A-26B_mfd_flyCam:L3_tooltip,Tooltip for an MFD button.,Toggle FOV,FOV切替
@@ -324,7 +324,7 @@ F/A-26B_mfd_flyCam:L4,Label for an MFD button (short!).," ",
 F/A-26B_mfd_flyCam:L4_tooltip,Tooltip for an MFD button.,Toggle AutoFOV,オートFOV切替
 F/A-26B_mfd_flyCam:L5,Label for an MFD button (short!).," ",
 F/A-26B_mfd_flyCam:L5_tooltip,Tooltip for an MFD button.,Toggle Audio,オーディオ切替
-F/A-26B_mfd_flyCam:R2,Label for an MFD button (short!).,MODE,
+F/A-26B_mfd_flyCam:R2,Label for an MFD button (short!).,MODE,モード
 F/A-26B_mfd_flyCam:R2_tooltip,Tooltip for an MFD button.,Toggle Cam Mode,カメラモード切替
 F/A-26B_mfd_flyCam:R3,Label for an MFD button (short!).,LOOK,
 F/A-26B_mfd_flyCam:R3_tooltip,Tooltip for an MFD button.,Toggle Look Mode,ルックモード切替
@@ -338,7 +338,7 @@ F/A-26B_mfd_radar:R2,Label for an MFD button (short!).,R+,
 F/A-26B_mfd_radar:R2_tooltip,Tooltip for an MFD button.,Range +,範囲を広げる
 F/A-26B_mfd_radar:R3,Label for an MFD button (short!).,R-,
 F/A-26B_mfd_radar:R3_tooltip,Tooltip for an MFD button.,Range -,範囲を狭める
-F/A-26B_mfd_radar:R4,Label for an MFD button (short!).,MODE,
+F/A-26B_mfd_radar:R4,Label for an MFD button (short!).,MODE,モード
 F/A-26B_mfd_radar:R4_tooltip,Tooltip for an MFD button.,Toggle Mode,モード切替
 F/A-26B_mfd_radar:B1,Label for an MFD button (short!).,CLR,
 F/A-26B_mfd_radar:B1_tooltip,Tooltip for an MFD button.,Clear Tracks,トラッキング解除
@@ -374,7 +374,7 @@ VRコントローラーの
 押すとリセットされます"
 F/A-26B_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,
 F/A-26B_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,
-F/A-26B_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,
+F/A-26B_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,戻る
 F/A-26B_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,
 F/A-26B_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,リリースモード
 F/A-26B_mfd_cmsPage:B2,Label for an MFD button (short!).,-,
@@ -385,17 +385,17 @@ F/A-26B_mfd_map:T2,Label for an MFD button (short!).,GPS,
 F/A-26B_mfd_map:T2_tooltip,Tooltip for an MFD button.,GPS Targets,GPSターゲット
 F/A-26B_mfd_map:R2,Label for an MFD button (short!).,ZOOM+,
 F/A-26B_mfd_map:R3,Label for an MFD button (short!).,ZOOM-,
-F/A-26B_mfd_map:R4,Label for an MFD button (short!).,UP,
-F/A-26B_mfd_map:R5,Label for an MFD button (short!).,DOWN,
-F/A-26B_mfd_map:B4,Label for an MFD button (short!).,LEFT,
-F/A-26B_mfd_map:B5,Label for an MFD button (short!).,RIGHT,
-F/A-26B_mfd_map:R1,Label for an MFD button (short!).,RESET,
+F/A-26B_mfd_map:R4,Label for an MFD button (short!).,UP,上
+F/A-26B_mfd_map:R5,Label for an MFD button (short!).,DOWN,下
+F/A-26B_mfd_map:B4,Label for an MFD button (short!).,LEFT,左
+F/A-26B_mfd_map:B5,Label for an MFD button (short!).,RIGHT,右
+F/A-26B_mfd_map:R1,Label for an MFD button (short!).,RESET,リセット
 F/A-26B_mfd_map:R1_tooltip,Tooltip for an MFD button.,Reset Offset,オフセットリセット
-F/A-26B_mfd_map:T4,Label for an MFD button (short!).,MODE,
+F/A-26B_mfd_map:T4,Label for an MFD button (short!).,MODE,モード
 F/A-26B_mfd_map:T4_tooltip,Tooltip for an MFD button.,Toggle Rotation Mode,ローテーションモード切替
 F/A-26B_mfd_map:T5,Label for an MFD button (short!).,SOI,
 F/A-26B_mfd_map:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,SOI（この画面を操作対象にする）
-F/A-26B_mfd_map:L4,Label for an MFD button (short!).,FUEL,
+F/A-26B_mfd_map:L4,Label for an MFD button (short!).,FUEL,燃料
 F/A-26B_mfd_map:L4_tooltip,Tooltip for an MFD button.,Set Fuel Waypoint,燃料ウェイポイントセット
 F/A-26B_mfd_map:L3,Label for an MFD button (short!).,RTB,
 F/A-26B_mfd_map:L3_tooltip,Tooltip for an MFD button.,Set Return to Base Waypoint,RTBウェイポイントセット
@@ -524,8 +524,8 @@ tgp_sensorMode_1,TGP sensor mode label,NIGHT,
 tgp_sensorMode_2,TGP sensor mode label,COLOR,
 F/A-26B_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,単位オプション
 F/A-26B_mfd_options:R2_tooltip,Tooltip for an MFD button.,Toggle Joystick Mode,ジョイスティックモード切替
-F/A-26B_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,燃料の設定
-F/A-26B_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,高度警告の設定
+F/A-26B_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,燃料設定
+F/A-26B_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,高度計国設定
 F/A-26B_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,ジョイスティック感度調整
 F/A-26B_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,高度単位
 F/A-26B_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,距離単位
@@ -964,7 +964,7 @@ AV-42C_mfd_target:R4,Label for an MFD button (short!).,GPS-S,
 AV-42C_mfd_target:R4_tooltip,Tooltip for an MFD button.,GPS Send,GPSターゲットを一覧に登録
 AV-42C_mfd_target:R5,Label for an MFD button (short!).,GPS-A,
 AV-42C_mfd_target:R5_tooltip,Tooltip for an MFD button.,GPS Acquire,GPSターゲットの位置を読み取り
-AV-42C_mfd_target:L2,Label for an MFD button (short!).,MODE,
+AV-42C_mfd_target:L2,Label for an MFD button (short!).,MODE,モード
 AV-42C_mfd_target:L2_tooltip,Tooltip for an MFD button.,Cycle Modes,サイクルモード
 AV-42C_mfd_target:L3,Label for an MFD button (short!).,SENS,
 AV-42C_mfd_target:L3_tooltip,Tooltip for an MFD button.,Sensor Mode,センサーモード
@@ -990,11 +990,11 @@ AV-42C_mfd_map:B4,Label for an MFD button (short!).,LEFT,
 AV-42C_mfd_map:B5,Label for an MFD button (short!).,RIGHT,
 AV-42C_mfd_map:R1,Label for an MFD button (short!).,RESET,
 AV-42C_mfd_map:R1_tooltip,Tooltip for an MFD button.,Reset Offset,オフセットリセット
-AV-42C_mfd_map:T4,Label for an MFD button (short!).,MODE,
+AV-42C_mfd_map:T4,Label for an MFD button (short!).,MODE,モード
 AV-42C_mfd_map:T4_tooltip,Tooltip for an MFD button.,Toggle Rotation Mode,ローテーションモード切替
 AV-42C_mfd_map:T5,Label for an MFD button (short!).,SOI,
 AV-42C_mfd_map:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,SOI（この画面を操作対象にする）
-AV-42C_mfd_map:L4,Label for an MFD button (short!).,FUEL,
+AV-42C_mfd_map:L4,Label for an MFD button (short!).,FUEL,燃料
 AV-42C_mfd_map:L4_tooltip,Tooltip for an MFD button.,Set Fuel Waypoint,給油ウェイポイントセット
 AV-42C_mfd_map:L3,Label for an MFD button (short!).,RTB,
 AV-42C_mfd_map:L3_tooltip,Tooltip for an MFD button.,Set Return to Base Waypoint,RTBウェイポイントセット
@@ -1007,8 +1007,8 @@ AV-42C_mfd_map:B2_tooltip,Tooltip for an MFD button.,Raise Target Alt,目標高�
 AV-42C_mfd_map:B3,Label for an MFD button (short!).,GPS-S,
 AV-42C_mfd_map:B3_tooltip,Tooltip for an MFD button.,Send GPS Target,GPSターゲットを一覧に登録
 AV-42C_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,単位オプション
-AV-42C_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,燃料の設定
-AV-42C_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,高度警告の設定
+AV-42C_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,燃料設定
+AV-42C_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,高度警告設定
 AV-42C_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,ジョイスティック感度設定
 AV-42C_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,高度の単位
 AV-42C_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,距離の単位
@@ -2489,8 +2489,8 @@ err_scenarioNotFound,Error message for workshop browser,Scenario not found!,ミ�
 err_version,Error message for workshop browser,Incompatible game version!,ゲームバージョンの互換性が無い
 vehicleConfig_denyOverBudget,Denial message for vehicle configurator,OVER BUDGET,予算超過
 vehicleConfig_repairOverBudget,Denial message for vehicle configurator,Insufficient funds to repair.,修理のための資金が不足しています
-briefingUI_configure,Start button in mission briefing,Configure,機体整備
-briefingUI_fly,Start button in mission briefing,出発,
+briefingUI_configure,Start button in mission briefing,Configure,設定
+briefingUI_fly,Start button in mission briefing,Fly,
 mfd_home,MFD home page button,Home,
 env_morning,Environment setting,Morning,早朝
 env_day,Environment setting,Day,日中
