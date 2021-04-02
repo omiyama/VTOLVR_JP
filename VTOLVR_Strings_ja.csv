@@ -527,9 +527,9 @@ F/A-26B_mfd_options:R2_tooltip,Tooltip for an MFD button.,Toggle Joystick Mode,�
 F/A-26B_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,燃料の設定
 F/A-26B_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,高度警告の設定
 F/A-26B_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,ジョイスティック感度調整
-F/A-26B_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,高度単位
-F/A-26B_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,距離単位
-F/A-26B_mfd_unitOptions:L4_tooltip,Tooltip for an MFD button.,Speed Units,スピード単位
+F/A-26B_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,高度の単位
+F/A-26B_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,距離の単位
+F/A-26B_mfd_unitOptions:L4_tooltip,Tooltip for an MFD button.,Speed Units,スピードの単位
 F/A-26B_mfd_unitOptions:T5_tooltip,Tooltip for an MFD button.,Back,戻る
 F/A-26B_mfd_fuelConfig:T5_tooltip,Tooltip for an MFD button.,Back,戻る
 F/A-26B_mfd_fuelConfig:L4_tooltip,Tooltip for an MFD button.,Bingo Fuel +,最低燃料 +
@@ -2490,7 +2490,7 @@ err_version,Error message for workshop browser,Incompatible game version!,ゲー
 vehicleConfig_denyOverBudget,Denial message for vehicle configurator,OVER BUDGET,予算超過
 vehicleConfig_repairOverBudget,Denial message for vehicle configurator,Insufficient funds to repair.,修理のための資金が不足しています
 briefingUI_configure,Start button in mission briefing,Configure,機体整備
-briefingUI_fly,Start button in mission briefing,出発,
+briefingUI_fly,Start button in mission briefing,Fly,出発
 mfd_home,MFD home page button,Home,
 env_morning,Environment setting,Morning,早朝
 env_day,Environment setting,Day,日中
