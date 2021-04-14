@@ -1,6 +1,75 @@
 Key,Description,en,ja
+Mk-82AIR High Drag Bomb x1_fullName,Full equip name of: Mk-82AIR High Drag Bomb x1,Mk-82AIR High Drag Bomb x1,Mk-82AIR 高耐性爆弾 x1
+Mk-82AIR High Drag Bomb x1_description,Item description of: Mk-82AIR High Drag Bomb x1,Standard un-guided 500lb bomb. Deploys an inflatable drag chute to slow descent for low altitude bombing.,標準的な無誘導の500ポンド爆弾。 降下速度を遅くするためのインフレータブル減速パラシュートを装備しており、低空での爆撃に適しています。
+Mk-82AIR High Drag Bomb x2_fullName,Full equip name of: Mk-82AIR High Drag Bomb x2,Mk-82AIR High Drag Bomb x2,
+Mk-82AIR High Drag Bomb x2_description,Item description of: Mk-82AIR High Drag Bomb x2,Standard un-guided 500lb bombs. Deploys an inflatable drag chute to slow descent for low altitude bombing.,標準的な500ポンド無誘導爆弾 x2。膨張式の減速パラシュートを装備して降下を遅らせ、低空での爆撃に適しています。
 Mk-82AIR High Drag Bomb x3_fullName,Full equip name of: Mk-82AIR High Drag Bomb x3,Mk-82AIR High Drag Bomb x3,
 Mk-82AIR High Drag Bomb x3_description,Item description of: Mk-82AIR High Drag Bomb x3,Standard un-guided 500lb bombs. Deploys an inflatable drag chute to slow descent for low altitude bombing.,500ポンド無誘導爆弾。パラシュートを展開し、低空爆撃のために降下を遅らせる。
+MK-82AIR x32_fullName,Full equip name of: MK-82AIR x32,MK-82AIR x32,MK-82AIR x32
+MK-82AIR x32_description,Item description of: MK-82AIR x32,A rack of 32 MK-82AIR high drag bombs.,
+Mk.82 Bomb x1_fullName,Full equip name of: Mk.82 Bomb x1,Mk.82 Bomb x1,Mk.82 爆弾 x1
+Mk.82 Bomb x1_description,Item description of: Mk.82 Bomb x1,Standard un-guided 500lb bomb.,標準的な500ポンド無誘導爆弾
+Mk-82 Bomb x1_fullName,Full equip name of: Mk-82 Bomb x1,Mk-82 Bomb x1,
+Mk-82 Bomb x1_description,Item description of: Mk-82 Bomb x1,Standard un-guided 500lb bomb.,標準的な無誘導の500ポンド爆弾。
+Mk.82 Bomb x2_fullName,Full equip name of: Mk.82 Bomb x2,Mk.82 Bomb x2,
+Mk.82 Bomb x2_description,Item description of: Mk.82 Bomb x2,Two standard un-guided 500lb bombs.,標準的な500ポンド無誘導爆弾 x2
+Mk-82 Bomb x2_fullName,Full equip name of: Mk-82 Bomb x2,Mk-82 Bomb x2,
+Mk-82 Bomb x2_description,Item description of: Mk-82 Bomb x2,Two standard un-guided 500lb bombs.,標準的な500ポンド無誘導爆弾 x2
+Mk.82 Bomb x3_fullName,Full equip name of: Mk.82 Bomb x3,Mk.82 Bomb x3,Mk.82 爆弾 x3
+Mk.82 Bomb x3_description,Item description of: Mk.82 Bomb x3,Standard un-guided 500lb bombs.,標準的な500ポンド無誘導爆弾 x3
+Mk-82 Bomb x3_fullName,Full equip name of: Mk-82 Bomb x3,Mk-82 Bomb x3,
+Mk-82 Bomb x3_description,Item description of: Mk-82 Bomb x3,Standard un-guided 500lb bombs.,標準的な500ポンド無誘導爆弾 x3
+Mk.82 Bomb x4_fullName,Full equip name of: Mk.82 Bomb x4,Mk.82 Bomb x4,
+Mk.82 Bomb x4_description,Item description of: Mk.82 Bomb x4,Four standard un-guided 500lb bombs.,4個の標準的な500ポンド無誘導爆弾
+MK-82 x32_fullName,Full equip name of: MK-82 x32,MK-82 x32,MK-82 x32
+MK-82 x32_description,Item description of: MK-82 x32,A rack of 32 MK-82 bombs.,
+Mk.83 Bomb x1_fullName,Full equip name of: Mk.83 Bomb x1,Mk.83 Bomb x1,
+Mk.83 Bomb x1_description,Item description of: Mk.83 Bomb x1,Standard un-guided 1000lb bomb.,標準的な1000ポンド無誘導爆弾
+MK-83 x12_fullName,Full equip name of: MK-83 x12,MK-83 x12,MK-83 x12
+MK-83 x12_description,Item description of: MK-83 x12,A rack of 12 MK-83 1000lb bombs.,MK-83 1000ポンド爆弾 x12
+GBU-12 Laser Guided Bomb x2_fullName,Full equip name of: GBU-12 Laser Guided Bomb x2,GBU-12 Laser Guided Bomb x2,GBU-12 レーザー誘導爆弾 x2
+GBU-12 Laser Guided Bomb x2_description,Item description of: GBU-12 Laser Guided Bomb x2,A rack of two 500lb laser guided bombs.,500ポンドレーザー誘導爆弾 x2
+GBU-12 Laser Guided Bomb x3_fullName,Full equip name of: GBU-12 Laser Guided Bomb x3,GBU-12 Laser Guided Bomb x3,GBU-12 レーザー誘導爆弾 x3
+GBU-12 Laser Guided Bomb x3_description,Item description of: GBU-12 Laser Guided Bomb x3,A rack of three 500lb laser guided bomb.,500ポンドのレーザー誘導爆弾 x3
+eqSublabel_LASER-BOMB,HUD sub-label of an equip,LASER BOMB,
+GBU-12 Laser Guided Bomb_fullName,Full equip name of: GBU-12 Laser Guided Bomb,GBU-12 Laser Guided Bomb,GBU-12 レーザー誘導爆弾
+GBU-12 Laser Guided Bomb_description,Item description of: GBU-12 Laser Guided Bomb,A 500lb laser guided bomb.,500ポンドのレーザー誘導爆弾
+lgb_targetMode,Option title for laser guided bombs' targeting mode.,TARGET MODE,
+s_LOAL,Lock on after launch HUD label for laser bomb,LOAL,
+s_lgbMode_0,Laser guided bomb targeting mode,LASER,
+s_lgbMode_1,Laser guided bomb targeting mode,DUMB,
+GBU-38 Bomb x1_fullName,Full equip name of: GBU-38 Bomb x1,GBU-38 Bomb x1,
+GBU-38 Bomb x1_description,Item description of: GBU-38 Bomb x1,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,500ポンドのGPS誘導爆弾。Mk.82爆弾に誘導装置を取り付けたものです。
+GBU-38 Bomb x2_fullName,Full equip name of: GBU-38 Bomb x2,GBU-38 Bomb x2,
+GBU-38 Bomb x2_description,Item description of: GBU-38 Bomb x2,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,500ポンドのGPS誘導爆弾 x2。Mk.82爆弾に誘導アタッチメントを付けたものです。
+GBU-38 Bomb x3_fullName,Full equip name of: GBU-38 Bomb x3,GBU-38 Bomb x3,
+GBU-38 Bomb x3_description,Item description of: GBU-38 Bomb x3,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,500ポンドのGPS誘導爆弾 x3。Mk.82爆弾に誘導アタッチメントを付けたもの。
+GBU-38 Bomb x4_fullName,Full equip name of: GBU-38 Bomb x4,GBU-38 Bomb x4,
+GBU-38 Bomb x4_description,Item description of: GBU-38 Bomb x4,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,500ポンドのGPS誘導爆弾 x4。Mk.82爆弾に誘導アタッチメントを付けたもの。
+GBU-39 SD Bomb x3_fullName,Full equip name of: GBU-39 SD Bomb x3,GBU-39 SD Bomb x3,
+GBU-39 SD Bomb x3_description,Item description of: GBU-39 SD Bomb x3,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,GPS誘導式の小口径爆弾 x3。 折りたたみ式のグライダー翼が内蔵されており、長距離を滑空して正確にターゲットを狙うことができます。
+GBU-39 SD Bomb x4_fullName,Full equip name of: GBU-39 SD Bomb x4,GBU-39 SD Bomb x4,GBU-39 小口径爆弾 x4
+GBU-39 SD Bomb x4_description,Item description of: GBU-39 SD Bomb x4,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,GPS誘導式の小口径爆弾を4個。 折りたたみ式のグライダー翼が内蔵されており、長距離を滑空して正確にターゲットを狙うことができます。
+eqSublabel_GPS-BOMB,HUD sub-label of an equip,GPS BOMB,
+GBU-53 Advanced SD Bomb x4_fullName,Full equip name of: GBU-53 Advanced SD Bomb x4,GBU-53 Advanced SD Bomb x4,GBU-53 高性能小口径爆弾 x4
+GBU-53 Advanced SD Bomb x4_description,Item description of: GBU-53 Advanced SD Bomb x4,An internally mounted rack of 4 optically guided small diameter bomb. Each bomb has built-in folding wings that allow it to glide for long distances and hit targets with precision. Advanced optics allow it to track moving targets from extended range without laser designation.,光学的に誘導された4個の小径爆弾を内部マウントに搭載。折りたたみ式のグライダー翼が内蔵されており、長距離を滑空して正確にターゲットを狙うことができます。高度な光学系により、レーザーガイダンスなしで遠距離の移動目標を追跡することができます。
+
+eqSublabel_OPTICAL-BOMB-FAF,HUD sub-label of an equip,OPTICAL BOMB FAF,
+eqSublabel_GPS-BOMB-INTERNAL,HUD sub-label of an equip,GPS BOMB INTERNAL,
+gpsBomb_targetMode,"An option for GPS bombs' targeting mode (auto, manual, dumb)",TARGET MODE,
+gpsBomb_autoRelRate,An option for GPS bomb's automatic release rate (shortened to fit UI space).,AUTO REL RATE,
+s_gbu_mode_0,Targeting mode label for GPS bomb,MANUAL,
+s_gbu_mode_1,Targeting mode label for GPS bomb,AUTO,
+s_gbu_mode_2,Targeting mode label for GPS bomb,DUMB,
+
+CBU-97 Bomb x1_fullName,Full equip name of: CBU-97 Bomb x1,CBU-97 Bomb x1,
+CBU-97 Bomb x1_description,Item description of: CBU-97 Bomb x1,A smart cluster bomb that fires 40 explosively shaped armor penetrators at targets.,40個の徹甲弾を目標に散布することができるスマートクラスター爆弾。
+
+SB-1 Bomb x3_fullName,Full equip name of: SB-1 Bomb x3,SB-1 Bomb x3,
+SB-1 Bomb x3_description,Item description of: SB-1 Bomb x3,Standard un-guided 500lb bombs.,500ポンド無誘導爆弾 x3
+SB-1 x32_fullName,Full equip name of: SB-1 x32,SB-1 x32,SB-1 x32
+SB-1 x32_description,Item description of: SB-1 x32,A rack of 32 standard un-guided 500lb bombs.,32個の標準的な500ポンド無誘導爆弾。
+
 eqSublabel_BOMB,HUD sub-label of an equip,BOMB,
 ON,,ON,
 OFF,,OFF,
@@ -9,16 +78,54 @@ SALVO,,SALVO,
 bomb_lowG,"HUD label shown when aircraft is under low or negative g-forces, preventing bomb release.","LOW G
 NO RELEASE",
 s_ccrpAuto,,CCRP AUTO,
-MK-82AIR x32_fullName,Full equip name of: MK-82AIR x32,MK-82AIR x32,MK-82AIR x32
-MK-82AIR x32_description,Item description of: MK-82AIR x32,A rack of 32 MK-82AIR high drag bombs.,
+
 Hydra-70 x7 Rocket Pod_fullName,Full equip name of: Hydra-70 x7 Rocket Pod,Hydra-70 x7 Rocket Pod,
 Hydra-70 x7 Rocket Pod_description,Item description of: Hydra-70 x7 Rocket Pod,"A pod carrying a total of 7 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",7発の高爆発性ロケット弾を搭載したポッド。 単発モードで発射することも、速射（リップル）で発射することもできる。
+Hydra-70 x14 Rocket Pod_fullName,Full equip name of: Hydra-70 x14 Rocket Pod,Hydra-70 x14 Rocket Pod,Hydra-70 x14 ロケットポッド
+Hydra-70 x14 Rocket Pod_description,Item description of: Hydra-70 x14 Rocket Pod,"A pair of pods carrying a total of 14 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",14発の高性能ロケット弾の発射ポッド。単発でも連射でもOK。
+Hydra-70 4x4 Rocket Pod_fullName,Full equip name of: Hydra-70 4x4 Rocket Pod,Hydra-70 4x4 Rocket Pod,Hydra-70 4x4 ロケット弾
+Hydra-70 4x4 Rocket Pod_description,Item description of: Hydra-70 4x4 Rocket Pod,"A cluster of pods carrying a total of 16 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",16発の高性能ロケット弾を搭載した発射ポッド。 単発でも連射でもOK。
+Hydra-70 x19 Rocket Pod_fullName,Full equip name of: Hydra-70 x19 Rocket Pod,Hydra-70 x19 Rocket Pod,Hydra-70 x19 ロケットポッド
+Hydra-70 x19 Rocket Pod_description,Item description of: Hydra-70 x19 Rocket Pod,"A pod carrying a total of 19 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",19発の高性能ロケット弾の発射ポッド。単発でも連射でもOK。
+WR-25 Rocket Pod_fullName,Full equip name of: WR-25 Rocket Pod,WR-25 Rocket Pod,WR-25 ロケットポッド
+WR-25 Rocket Pod_description,Item description of: WR-25 Rocket Pod,A hexagonal pod carrying 25 unguided rockets.,25発の無誘導ロケットを搭載した六角形のポッド
 eqSublabel_ROCKET,HUD sub-label of an equip,ROCKET,
 s_rocket_salvo,Rocket launcher salvo option,SALVO,
-SB-1 Bomb x3_fullName,Full equip name of: SB-1 Bomb x3,SB-1 Bomb x3,
-SB-1 Bomb x3_description,Item description of: SB-1 Bomb x3,Standard un-guided 500lb bombs.,500ポンド無誘導爆弾 x3
+
+AIM-9 Sidewinder_fullName,Full equip name of: AIM-9 Sidewinder,AIM-9 Sidewinder,AIM-9 サイドワインダー
+AIM-9 Sidewinder_description,Item description of: AIM-9 Sidewinder,A standard short range heat seeking air to air missile.,標準的な短距離赤外線誘導式空対空ミサイル
+AIM-9 Sidewinder x2_fullName,Full equip name of: AIM-9 Sidewinder x2,AIM-9 Sidewinder x2,AIM-9 サイドワインダー x2
+AIM-9 Sidewinder x2_description,Item description of: AIM-9 Sidewinder x2,A rack of two standard heat-seeking Sidewinder anti-air missiles.,標準的な短距離赤外線誘導空対空ミサイル x2
+AIM-9 Sidewinder x3_fullName,Full equip name of: AIM-9 Sidewinder x3,AIM-9 Sidewinder x3,AIM-9 サイドワインダー x3
+AIM-9 Sidewinder x3_description,Item description of: AIM-9 Sidewinder x3,A rack of three standard heat-seeking Sidewinder anti-air missiles.,標準的な短距離赤外線誘導空対空ミサイル x3
+AIM-9+ Sidewinder_fullName,Full equip name of: AIM-9+ Sidewinder,AIM-9+ Sidewinder,AIM-9+ サイドワインダー
+AIM-9+ Sidewinder_description,Item description of: AIM-9+ Sidewinder,Advanced short range heat seeking air to air missile.,改良型短距離赤外線誘導空対空ミサイル
+AIM-9+ Sidewinder x2_fullName,Full equip name of: AIM-9+ Sidewinder x2,AIM-9+ Sidewinder x2,AIM-9+ サイドワインダー x2
+AIM-9+ Sidewinder x2_description,Item description of: AIM-9+ Sidewinder x2,An internally mounted rack of two advanced heat-seeking AIM-9+ anti-air missiles.,赤外線誘導の短距離空対空ミサイル2基を内部マウントに搭載。
+AIRS-T Advanced SRM_fullName,Full equip name of: AIRS-T Advanced SRM,AIRS-T Advanced SRM,AIRS-T Advanced SRM
+AIRS-T Advanced SRM_description,Item description of: AIRS-T Advanced SRM,"Short range heat seeking air to air missile with thrust vectoring.
+Improved maneuverability, range, and counter-countermeasure system.","推力偏向制御による短距離赤外線誘導空対空ミサイル。
+操縦性、航続距離、対妨信システムが向上。"
+AIRS-T Advanced SRM x2_fullName,Full equip name of: AIRS-T Advanced SRM x2,AIRS-T Advanced SRM x2,AIRS-T Advanced SRM x2
+AIRS-T Advanced SRM x2_description,Item description of: AIRS-T Advanced SRM x2,"Short range heat seeking air to air missile with thrust vectoring.
+Improved maneuverability, range, and counter-countermeasure system.","推力偏向制御による短距離赤外線誘導空対空ミサイル。
+操縦性、航続距離、対妨信システムの向上。
+"AIRS-T Advanced SRM x3_fullName,Full equip name of: AIRS-T Advanced SRM x3,AIRS-T Advanced SRM x3,AIRS-T Advanced SRM x3
+AIRS-T Advanced SRM x3_description,Item description of: AIRS-T Advanced SRM x3,"Short range heat seeking air to air missile with thrust vectoring.
+Improved maneuverability, range, and counter-countermeasure system.","推力偏向制御による短距離赤外線誘導空対空ミサイル。
+操縦性、航続距離、対妨信システムの向上。"
+
+eqSublabel_IR-AAM,HUD sub-label of an equip,IR AAM,
+
 ASRM-93 x2_fullName,Full equip name of: ASRM-93 x2,ASRM-93 x2,ASRM-93 x2
 ASRM-93 x2_description,Item description of: ASRM-93 x2,Heat seeking short range air to air missiles.  Internally stowed.,赤外線誘導式の短距離空対空ミサイル。 内部のマウントに取り付けられています。
+ASF-SRM x1_fullName,Full equip name of: ASF-SRM x1,ASF-SRM x1,ASF-SRM x1
+ASF-SRM x1_description,Item description of: ASF-SRM x1,A standard heat-seeking anti-air missile.,標準的な赤外線誘導式の空対空ミサイル
+ASF-SRM x2_fullName,Full equip name of: ASF-SRM x2,ASF-SRM x2,ASF-SRM x2
+ASF-SRM x2_description,Item description of: ASF-SRM x2,A rack of two standard heat-seeking anti-air missiles.,標準的な赤外線誘導式空対空ミサイル x2
+ASF-SRM x3_fullName,Full equip name of: ASF-SRM x3,ASF-SRM x3,ASF-SRM x3
+ASF-SRM x3_description,Item description of: ASF-SRM x3,A rack of three standard heat-seeking anti-air missiles.,標準的な赤外線誘導式空対空ミサイル x3
+
 irml_seekMode,Option title for IR missiles' heat-seeking mode,SEEK MODE,
 irml_trigUncage,"Option title for IR missiles' seeker to be uncaged by the trigger (trigger uncage, shortened for UI space).",TRIG UNCAGE,
 s_seekerMode_0,Label for heatseeker mode,Caged,
@@ -26,124 +133,93 @@ s_seekerMode_1,Label for heatseeker mode,Uncaged,
 s_seekerMode_2,Label for heatseeker mode,Vertical Scan,
 s_seekerMode_3,Label for heatseeker mode,Head Track,
 s_seekerMode_4,Label for heatseeker mode,Hard Lock,
-Mk.83 Bomb x1_fullName,Full equip name of: Mk.83 Bomb x1,Mk.83 Bomb x1,
-Mk.83 Bomb x1_description,Item description of: Mk.83 Bomb x1,Standard un-guided 1000lb bomb.,標準的な1000ポンド無誘導爆弾
 s_cms_rate_single,CMS release rate - single fire mode,Single,
 s_cms_rMode_0,CMS release mode,Single Auto,
 s_cms_rMode_1,CMS release mode,Single L,
 s_cms_rMode_2,CMS release mode,Single R,
 s_cms_rMode_3,CMS release mode,Double,
-GBU-12 Laser Guided Bomb x3_fullName,Full equip name of: GBU-12 Laser Guided Bomb x3,GBU-12 Laser Guided Bomb x3,GBU-12 レーザー誘導爆弾 x3
-GBU-12 Laser Guided Bomb x3_description,Item description of: GBU-12 Laser Guided Bomb x3,A rack of three 500lb laser guided bomb.,500ポンドのレーザー誘導爆弾 x3
-eqSublabel_LASER-BOMB,HUD sub-label of an equip,LASER BOMB,
-lgb_targetMode,Option title for laser guided bombs' targeting mode.,TARGET MODE,
-s_LOAL,Lock on after launch HUD label for laser bomb,LOAL,
-s_lgbMode_0,Laser guided bomb targeting mode,LASER,
-s_lgbMode_1,Laser guided bomb targeting mode,DUMB,
-BSM-66_fullName,Full equip name of: BSM-66,BSM-66,BSM-66
-BSM-66_description,Item description of: BSM-66,Standard radar-guided missile.,標準的なレーダー誘導型のミサイル
-RG25 Twin Revolving Cannons_fullName,Full equip name of: RG25 Twin Revolving Cannons,RG25 Twin Revolving Cannons,RG252連装ガトリング砲
-RG25 Twin Revolving Cannons_description,Item description of: RG25 Twin Revolving Cannons,Twin 25mm revolving cannons.,25mm2連装ガトリング砲
+
 eqSublabel_CANNON,HUD sub-label of an equip,CANNON,
-GBU-38 Bomb x4_fullName,Full equip name of: GBU-38 Bomb x4,GBU-38 Bomb x4,
-GBU-38 Bomb x4_description,Item description of: GBU-38 Bomb x4,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,500ポンドのGPS誘導爆弾 x4。Mk.82爆弾に誘導アタッチメントを付けたもの。
-eqSublabel_GPS-BOMB-INTERNAL,HUD sub-label of an equip,GPS BOMB INTERNAL,
-gpsBomb_targetMode,"An option for GPS bombs' targeting mode (auto, manual, dumb)",TARGET MODE,
-gpsBomb_autoRelRate,An option for GPS bomb's automatic release rate (shortened to fit UI space).,AUTO REL RATE,
-s_gbu_mode_0,Targeting mode label for GPS bomb,MANUAL,
-s_gbu_mode_1,Targeting mode label for GPS bomb,AUTO,
-s_gbu_mode_2,Targeting mode label for GPS bomb,DUMB,
-ASF-SRM x1_fullName,Full equip name of: ASF-SRM x1,ASF-SRM x1,ASF-SRM x1
-ASF-SRM x1_description,Item description of: ASF-SRM x1,A standard heat-seeking anti-air missile.,標準的な赤外線誘導式の空対空ミサイル
 eqSublabel_IR,HUD sub-label of an equip,IR,
-GBU-38 Bomb x3_fullName,Full equip name of: GBU-38 Bomb x3,GBU-38 Bomb x3,
-GBU-38 Bomb x3_description,Item description of: GBU-38 Bomb x3,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,500ポンドのGPS誘導爆弾 x3。Mk.82爆弾に誘導アタッチメントを付けたもの。
-eqSublabel_GPS-BOMB,HUD sub-label of an equip,GPS BOMB,
-AGM-161 Anti Surface Stand-off Missile_fullName,Full equip name of: AGM-161 Anti Surface Stand-off Missile,AGM-161 Anti Surface Stand-off Missile,AGM-161 空対地巡航ミサイル
-AGM-161 Anti Surface Stand-off Missile_description,Item description of: AGM-161 Anti Surface Stand-off Missile,A cruise missile designed to deliver a large payload to a ground target over a long distance.  It follows a pre-programmed GPS course with automatic terrain avoidance.,大型のペイロードを搭載する地上目標を攻撃することができる長射程の巡航ミサイル。 あらかじめ設定された経路に沿って、自動的に地形を回避することができます。
-eqSublabel_GPS-CRUISE,HUD sub-label of an equip,GPS CRUISE,
-AGM-188 MARM_fullName,Full equip name of: AGM-188 MARM,AGM-188 MARM,AGM-188 MARM
-AGM-188 MARM_description,Item description of: AGM-188 MARM,Medium range anti-radiation missile with a unique top down attack angle.,トップダウンの攻撃パターンが特徴の中距離対レーダーミサイル
-eqSublabel_ARM,HUD sub-label of an equip,ARM,
+
+AIM-120 Advanced Radar Missile_fullName,Full equip name of: AIM-120 Advanced Radar Missile,AIM-120 Advanced Radar Missile,AIM-120 高性能レーダーミサイル
+AIM-120 Advanced Radar Missile_description,Item description of: AIM-120 Advanced Radar Missile,"Radar guided medium range air to air missile.
+",レーダー誘導型の中距離空対空ミサイル
+AIM-120 Advanced Radar Missile x2_fullName,Full equip name of: AIM-120 Advanced Radar Missile x2,AIM-120 Advanced Radar Missile x2,AIM-120 高性能レーダーミサイル x2
+AIM-120 Advanced Radar Missile x2_description,Item description of: AIM-120 Advanced Radar Missile x2,A rack of two radar guided medium range air to air missiles.,レーダー誘導式中距離空対空ミサイル x2。
+AIM-120D Advanced Radar Missile x2_fullName,Full equip name of: AIM-120D Advanced Radar Missile x2,AIM-120D Advanced Radar Missile x2,AIM-120D 高性能レーダーミサイル x2
+AIM-120D Advanced Radar Missile x2_description,Item description of: AIM-120D Advanced Radar Missile x2,"Two internally mounted, radar guided, medium range air to air missiles.
+",レーダー誘導式中距離空対空ミサイル x2、内部マウントに搭載。
+eqSublabel_RADAR-AAM,HUD sub-label of an equip,RADAR AAM,
 ASMRM-7 x1_fullName,Full equip name of: ASMRM-7 x1,ASMRM-7 x1,ASMRM-7 x1
 ASMRM-7 x1_description,Item description of: ASMRM-7 x1,Medium range radar guided air to air missile.,中距離のレーダー誘導型空対空ミサイル
-AIRS-T Advanced SRM x3_fullName,Full equip name of: AIRS-T Advanced SRM x3,AIRS-T Advanced SRM x3,AIRS-T Advanced SRM x3
-AIRS-T Advanced SRM x3_description,Item description of: AIRS-T Advanced SRM x3,"Short range heat seeking air to air missile with thrust vectoring.
-Improved maneuverability, range, and counter-countermeasure system.","推力偏向制御による短距離赤外線誘導空対空ミサイル。
-操縦性、航続距離、対妨信システムの向上。"
-AIRS-T Advanced SRM x2_fullName,Full equip name of: AIRS-T Advanced SRM x2,AIRS-T Advanced SRM x2,AIRS-T Advanced SRM x2
-AIRS-T Advanced SRM x2_description,Item description of: AIRS-T Advanced SRM x2,"Short range heat seeking air to air missile with thrust vectoring.
-Improved maneuverability, range, and counter-countermeasure system.","推力偏向制御による短距離赤外線誘導空対空ミサイル。
-操縦性、航続距離、対妨信システムの向上。"
-Hydra-70 4x4 Rocket Pod_fullName,Full equip name of: Hydra-70 4x4 Rocket Pod,Hydra-70 4x4 Rocket Pod,Hydra-70 4x4 ロケット弾
-Hydra-70 4x4 Rocket Pod_description,Item description of: Hydra-70 4x4 Rocket Pod,"A cluster of pods carrying a total of 16 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",16発の高性能ロケット弾を搭載した発射ポッド。 単発でも連射でもOK。
-GBU-12 Laser Guided Bomb_fullName,Full equip name of: GBU-12 Laser Guided Bomb,GBU-12 Laser Guided Bomb,GBU-12 レーザー誘導爆弾
-GBU-12 Laser Guided Bomb_description,Item description of: GBU-12 Laser Guided Bomb,A 500lb laser guided bomb.,500ポンドのレーザー誘導爆弾
+ASMRM-7 x6 Internal_fullName,Full equip name of: ASMRM-7 x6 Internal,ASMRM-7 x6 Internal,ASMRM-7 x6 Internal
+ASMRM-7 x6 Internal_description,Item description of: ASMRM-7 x6 Internal,Medium range radar guided air to air missile. Missiles are stowed internally to improve stealth and aerodynamics.,中距離レーダー誘導型の空対空ミサイル。ミサイルは内部マウントに搭載され、ステルス性と空力性能を向上させています。
+
 GAU-8 Avenger_fullName,Full equip name of: GAU-8 Avenger,GAU-8 Avenger,GAU-8 アヴェンジャー
 GAU-8 Avenger_description,Item description of: GAU-8 Avenger,"A 30mm, 7-barrel rotary cannon. Fires depleted uranium rounds at a high rate of fire.",30mm7連装ガトリング砲。 劣化ウラン製の徹甲弾を高レートで発射する。
-AGM-65_fullName,Full equip name of: AGM-65,AGM-65,AGM-65
-AGM-65_description,Item description of: AGM-65,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",中距離光学誘導式「撃ちっぱなし可能」対戦車ミサイル
-eqSublabel_OPTICAL-FF,HUD sub-label of an equip,OPTICAL FF,
-AUTO,,AUTO,
-MANUAL,,MANUAL,
-oml_uncageMode,Option title for optical missiles' seeker uncage mode (unlocking from the forward aiming position).,UNCAGE MODE,
-oml_noTgp,Optical AGM is selected but there is no TGP attached,NO TGP,
-PAC-3_fullName,Full equip name of: PAC-3,PAC-3,PAC-3
-PAC-3_description,Item description of: PAC-3,Radar-guided surface-to-air defense missile.,レーダー誘導式の対空ミサイル
-4000L Fuel Drop Tank_fullName,Full equip name of: 4000L Fuel Drop Tank,4000L Fuel Drop Tank,4000L 増槽
-4000L Fuel Drop Tank_description,Item description of: 4000L Fuel Drop Tank,A 4000 liter detachable external fuel tank.,4000Lの投棄可能な外部燃料タンク。
-ASF-SRM x2_fullName,Full equip name of: ASF-SRM x2,ASF-SRM x2,ASF-SRM x2
-ASF-SRM x2_description,Item description of: ASF-SRM x2,A rack of two standard heat-seeking anti-air missiles.,標準的な赤外線誘導式空対空ミサイル x2
-AIM-9 Sidewinder x3_fullName,Full equip name of: AIM-9 Sidewinder x3,AIM-9 Sidewinder x3,AIM-9 サイドワインダー x3
-AIM-9 Sidewinder x3_description,Item description of: AIM-9 Sidewinder x3,A rack of three standard heat-seeking Sidewinder anti-air missiles.,標準的な短距離赤外線誘導空対空ミサイル x3
-eqSublabel_IR-AAM,HUD sub-label of an equip,IR AAM,
-GBU-39 SD Bomb x4_fullName,Full equip name of: GBU-39 SD Bomb x4,GBU-39 SD Bomb x4,GBU-39 小口径爆弾 x4
-GBU-39 SD Bomb x4_description,Item description of: GBU-39 SD Bomb x4,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,GPS誘導式の小口径爆弾を4個。 折りたたみ式のグライダー翼が内蔵されており、長距離を滑空して正確にターゲットを狙うことができます。
-Mk-82 Bomb x3_fullName,Full equip name of: Mk-82 Bomb x3,Mk-82 Bomb x3,
-Mk-82 Bomb x3_description,Item description of: Mk-82 Bomb x3,Standard un-guided 500lb bombs.,標準的な500ポンド無誘導爆弾 x3
-WR-25 Rocket Pod_fullName,Full equip name of: WR-25 Rocket Pod,WR-25 Rocket Pod,WR-25 ロケットポッド
-WR-25 Rocket Pod_description,Item description of: WR-25 Rocket Pod,A hexagonal pod carrying 25 unguided rockets.,25発の無誘導ロケットを搭載した六角形のポッド
-Mk.82 Bomb x4_fullName,Full equip name of: Mk.82 Bomb x4,Mk.82 Bomb x4,
-Mk.82 Bomb x4_description,Item description of: Mk.82 Bomb x4,Four standard un-guided 500lb bombs.,4個の標準的な500ポンド無誘導爆弾
-eqSublabel_BOMB-INTERNAL,HUD sub-label of an equip,BOMB INTERNAL,
-s_cs_granted,Text in campaign selector,Granted,報酬
-s_cs_budget,Text in campaign selector,Budget,予算
-s_cs_newMission,Text in campaign selector,New Mission:,新しいミッション：
-s_cs_newTraining,Text in campaign selector,New Training:,新しい訓練：
-s_cs_newEquip,Text in campaign selector,New Equipment:,新しい装備：
-s_cs_incompatibleVersion,Text in campaign selector,Incompatible game version,ゲームのバージョンが合わない
-campaign_customScenarios,,Custom Scenarios,カスタムシナリオ
-campaign_customScenarios_description,,Play custom scenarios created in the VTEditor.,VTエディタで作成した自作タスクを実行します。
-campaign_ws,,Steam Workshop Scenarios,Steam Workshop シナリオ
-campaign_ws_description,,Play custom scenarios installed through Steam Workshop.,Steamワークショップからインストールしたミッションを実行します。
-s_cInfo_completed,'x% [Completed]' text in campaign selector,Completed,完了
-AGM-126 SideARM II x2_fullName,Full equip name of: AGM-126 SideARM II x2,AGM-126 SideARM II x2,
-AGM-126 SideARM II x2_description,Item description of: AGM-126 SideARM II x2,Compact short range anti-radiation missile based on the AIM-9x.,AIM-9xをベースとした小型短距離対レーダーミサイル x2
-500L Fuel Drop Tank_fullName,Full equip name of: 500L Fuel Drop Tank,500L Fuel Drop Tank,500L 増槽
-500L Fuel Drop Tank_description,Item description of: 500L Fuel Drop Tank,A 500 liter fuel tank.,500Lの外部燃料タンク。
-Mk-82AIR High Drag Bomb x2_fullName,Full equip name of: Mk-82AIR High Drag Bomb x2,Mk-82AIR High Drag Bomb x2,
-Mk-82AIR High Drag Bomb x2_description,Item description of: Mk-82AIR High Drag Bomb x2,Standard un-guided 500lb bombs. Deploys an inflatable drag chute to slow descent for low altitude bombing.,標準的な500ポンド無誘導爆弾 x2。膨張式の減速パラシュートを装備して降下を遅らせ、低空での爆撃に適しています。
 GAU-22 Redeemer 25mm_fullName,Full equip name of: GAU-22 Redeemer 25mm,GAU-22 Redeemer 25mm,
 GAU-22 Redeemer 25mm_description,Item description of: GAU-22 Redeemer 25mm,"A 4-barrel 25mm rotary cannon.
 Rate of fire: 3300 RPM","25mm4連装ガトリング砲
 射撃速度：3300/分"
+M62 Vulcan 20mm_fullName,Full equip name of: M62 Vulcan 20mm,M62 Vulcan 20mm,M62 バルカン
+M62 Vulcan 20mm_description,Item description of: M62 Vulcan 20mm,A modern 20mm rotary cannon.,現代の20mmバルカン砲
+M230 Chain Gun_fullName,Full equip name of: M230 Chain Gun,M230 Chain Gun,M230 チェーンガン
+M230 Chain Gun_description,Item description of: M230 Chain Gun,A single-barrel 30mm automatic cannon mounted on a gimbal. The gimbal will be locked forward above a certain airspeed.,回転式砲塔に搭載された30mm単装チェーンガン。砲塔は高速でロックされます。
+
+eqSublabel_CANNON-GIMBAL,HUD sub-label of an equip,CANNON GIMBAL,
+gunTurret_locked,Label for when a gun turret is set to be locked in the forward-aiming position.,LOCKED,
+gunTurret_slaved,Label for wh en a gun turret is set to be controlled by (slaved to) an external sensor.,SLAVED,
+gunTurret_gimbal,Option title for gun turrets' gimbal (rotation/aiming) to be locked or slaved.,GIMBAL,
+gunTurret_speedlock,Label when gun turret is locked due to overspeed,SPEEDLOCK,
+
+RG25 Twin Revolving Cannons_fullName,Full equip name of: RG25 Twin Revolving Cannons,RG25 Twin Revolving Cannons,RG252連装ガトリング砲
+RG25 Twin Revolving Cannons_description,Item description of: RG25 Twin Revolving Cannons,Twin 25mm revolving cannons.,25mm2連装ガトリング砲
+CG25 Twin Chaingun_fullName,Full equip name of: CG25 Twin Chaingun,CG25 Twin Chaingun,CG25 二連装チェーンガン
+CG25 Twin Chaingun_description,Item description of: CG25 Twin Chaingun,A fixed 25mm dual-barrel chaingun.,固定式25mm二連装チェーンガン
+EUCAV GUN_fullName,Full equip name of: EUCAV GUN,EUCAV GUN,
+EUCAV GUN_description,Item description of: EUCAV GUN,EUCAV GUN,
+
+AGM-65_fullName,Full equip name of: AGM-65,AGM-65,AGM-65
+AGM-65_description,Item description of: AGM-65,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",中距離光学誘導式「撃ちっぱなし可能」対戦車ミサイル
+AGM-65 x3_fullName,Full equip name of: AGM-65 x3,AGM-65 x3,AGM-65 x3
+AGM-65 x3_description,Item description of: AGM-65 x3,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",中距離光学誘導式「撃ちっぱなし可能」対戦車ミサイル x3
+eqSublabel_OPTICAL-FF,HUD sub-label of an equip,OPTICAL FF,
+AUTO,,AUTO,
+MANUAL,,MANUAL,
+AGM-145 Ballista x2_fullName,Full equip name of: AGM-145 Ballista x2,AGM-145 Ballista x2,AGM-145 バリスタ x2
+AGM-145 Ballista x2_description,Item description of: AGM-145 Ballista x2,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.",高度な光学系、「撃ちっぱなし可能」、インテリジェント・セルフターゲティング技術を搭載した小型対戦車ミサイル x2。 ターゲットポイントを直接見ずに発射でき、自動的に敵を狙うことができます。
+AGM-145 Ballista x3_fullName,Full equip name of: AGM-145 Ballista x3,AGM-145 Ballista x3,AGM-145 バリスタ x3
+AGM-145 Ballista x3_description,Item description of: AGM-145 Ballista x3,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.",高度な光学系「撃ちっぱなしミサイル」。スマートセルフターゲティング技術を搭載した小型対戦車ミサイル x3。指定されたターゲットポイントへの視線が無くても発射でき、敵のターゲットを自動的にロックします。
+AGM-145 Ballista x4_fullName,Full equip name of: AGM-145 Ballista x4,AGM-145 Ballista x4,AGM-145 バリスタ x4
+AGM-145 Ballista x4_description,Item description of: AGM-145 Ballista x4,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.",高度な光学系、「撃ちっぱなし可能」、インテリジェント・セルフターゲティング技術を搭載した4発の小型対戦車ミサイル。 ターゲットポイントを直接見ずに発射でき、敵のターゲットを自動的にロックすることができます。
+eqSublabel_OPTICAL-FAF,HUD sub-label of an equip,OPTICAL FAF,
+AGM-114 x4_fullName,Full equip name of: AGM-114 x4,AGM-114 x4,AGM-114 x4
+AGM-114 x4_description,Item description of: AGM-114 x4,"A rack of 4 laser guided anti-tank missiles.
+Requires continuous lock for guidance (not fire-and-forget).","レーザー誘導式対戦車ミサイル x4
+常にロックしておく必要がある（撃ちっぱなしではない）。"
 GMA-14 x3_fullName,Full equip name of: GMA-14 x3,GMA-14 x3,GMA-14 x3
 GMA-14 x3_description,Item description of: GMA-14 x3,A rack of 3 laser guided anti-tank missiles.,レーザー誘導式の対戦車ミサイル x3
 eqSublabel_LG,HUD sub-label of an equip,LG,
-AGM-88 ARM_fullName,Full equip name of: AGM-88 ARM,AGM-88 ARM,
-AGM-88 ARM_description,Item description of: AGM-88 ARM,Medium range anti-radiation missile.,中距離の対レーダーミサイル
-AIRS-T Advanced SRM_fullName,Full equip name of: AIRS-T Advanced SRM,AIRS-T Advanced SRM,AIRS-T Advanced SRM
-AIRS-T Advanced SRM_description,Item description of: AIRS-T Advanced SRM,"Short range heat seeking air to air missile with thrust vectoring.
-Improved maneuverability, range, and counter-countermeasure system.","推力偏向制御による短距離赤外線誘導空対空ミサイル。
-操縦性、航続距離、対妨信システムが向上。"
-GBU-39 SD Bomb x3_fullName,Full equip name of: GBU-39 SD Bomb x3,GBU-39 SD Bomb x3,
-GBU-39 SD Bomb x3_description,Item description of: GBU-39 SD Bomb x3,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,GPS誘導式の小口径爆弾 x3。 折りたたみ式のグライダー翼が内蔵されており、長距離を滑空して正確にターゲットを狙うことができます。
-AN/AAQ-28 Targeting Pod_fullName,Full equip name of: AN/AAQ-28 Targeting Pod,AN/AAQ-28 Targeting Pod,AN/AAQ-28 ターゲッティングポッド
-AN/AAQ-28 Targeting Pod_description,Item description of: AN/AAQ-28 Targeting Pod,Sensor pod for acquiring and tracking targets using optics and lasers.  A necessary component for certain guided missiles.,ターゲティングとトラッキングのためのセンサーポッドで、光学とレーザーを搭載。 誘導兵器に必要な装置。
-2200L Fuel Drop Tank_fullName,Full equip name of: 2200L Fuel Drop Tank,2200L Fuel Drop Tank,2200L 二次燃料タンク
-2200L Fuel Drop Tank_description,Item description of: 2200L Fuel Drop Tank,A 2200 liter fuel tank.,2200リットルの二次燃料タンク
+
+CAGM-6 Cluster Missile_fullName,Full equip name of: CAGM-6 Cluster Missile,CAGM-6 Cluster Missile,CAGM-6 クラスターミサイル
+CAGM-6 Cluster Missile_description,Item description of: CAGM-6 Cluster Missile,"An optically guided ""fire-and-forget"" missile. 
+Deploys 6 submunitions that independently seek targets in the field of view.","光学誘導式の「撃ちっぱなし可能」クラスター・ミサイル。
+6つの子弾が分散され、それぞれが独立して視野内の目標を見つけることができます。"
+eqSublabel_OPTICAL-FF-CLUSTER,HUD sub-label of an equip,OPTICAL FF CLUSTER,
+oml_uncageMode,Option title for optical missiles' seeker uncage mode (unlocking from the forward aiming position).,UNCAGE MODE,
+oml_noTgp,Optical AGM is selected but there is no TGP attached,NO TGP,
+
+AGM-161 Anti Surface Stand-off Missile_fullName,Full equip name of: AGM-161 Anti Surface Stand-off Missile,AGM-161 Anti Surface Stand-off Missile,AGM-161 空対地巡航ミサイル
+AGM-161 Anti Surface Stand-off Missile_description,Item description of: AGM-161 Anti Surface Stand-off Missile,A cruise missile designed to deliver a large payload to a ground target over a long distance.  It follows a pre-programmed GPS course with automatic terrain avoidance.,大型のペイロードを搭載する地上目標を攻撃することができる長射程の巡航ミサイル。 あらかじめ設定された経路に沿って、自動的に地形を回避することができます。
+
+eqSublabel_GPS-CRUISE,HUD sub-label of an equip,GPS CRUISE,
+
+AGM-89 Anti-ship Cruise Missile_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile,AGM-89 Anti-ship Cruise Missile,AGM-89 対艦巡航ミサイル
+AGM-89 Anti-ship Cruise Missile_description,Item description of: AGM-89 Anti-ship Cruise Missile,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology.",空中発射される対艦巡航ミサイル。経路巡航技術、レーダー目標捕捉技術、ターミナルマヌーバー技術を搭載。
 AGM-89 Anti-ship Cruise Missile x2_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile x2,AGM-89 Anti-ship Cruise Missile x2,AGM-89 対艦巡航ミサイル x2
 AGM-89 Anti-ship Cruise Missile x2_description,Item description of: AGM-89 Anti-ship Cruise Missile x2,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology.",空中発射型対艦巡航ミサイル x2。パス・クルージング、レーダーによる目標捕捉、ターミナル制御技術を搭載。
+
 eqSublabel_ANTI-SHIP-CRUISE,HUD sub-label of an equip,ANTI-SHIP CRUISE,
 asml_terminalMode,An option for anti-ship cruise missiles' flight behavior in the last (terminal) phase of guidance.,TERMINAL MODE,ターミナルモード
 asml_noTarget,HUD label shown when the selected anti-ship missile has no target.,NO TARGET,ターゲットなし
@@ -155,8 +231,57 @@ s_asmTmode_0,Antiship terminal guidance mode,Direct,ダイレクト
 s_asmTmode_1,Antiship terminal guidance mode,SeaSkim,超低空飛行
 s_asmTmode_2,Antiship terminal guidance mode,SSEvasive,
 s_asmTmode_3,Antiship terminal guidance mode,Popup,ポップアップ
-AIM-9 Sidewinder_fullName,Full equip name of: AIM-9 Sidewinder,AIM-9 Sidewinder,AIM-9 サイドワインダー
-AIM-9 Sidewinder_description,Item description of: AIM-9 Sidewinder,A standard short range heat seeking air to air missile.,標準的な短距離赤外線誘導式空対空ミサイル
+
+AGM-88 ARM_fullName,Full equip name of: AGM-88 ARM,AGM-88 ARM,
+AGM-88 ARM_description,Item description of: AGM-88 ARM,Medium range anti-radiation missile.,中距離の対レーダーミサイル
+AGM-126 SideARM II x1_fullName,Full equip name of: AGM-126 SideARM II x1,AGM-126 SideARM II x1,AGM-126 対レーダーミサイル x1
+AGM-126 SideARM II x1_description,Item description of: AGM-126 SideARM II x1,Compact short range anti-radiation missile based on the AIM-9x.,AIM-9xをベースとした小型短距離対レーダーミサイル。
+AGM-126 SideARM II x2_fullName,Full equip name of: AGM-126 SideARM II x2,AGM-126 SideARM II x2,
+AGM-126 SideARM II x2_description,Item description of: AGM-126 SideARM II x2,Compact short range anti-radiation missile based on the AIM-9x.,AIM-9xをベースとした小型短距離対レーダーミサイル x2
+AGM-126 SideARM II x3_fullName,Full equip name of: AGM-126 SideARM II x3,AGM-126 SideARM II x3,AGM-126 対レーダーミサイル x3
+AGM-126 SideARM II x3_description,Item description of: AGM-126 SideARM II x3,Compact short range anti-radiation missile based on the AIM-9x.,AIM-9xをベースとした小型短距離対レーダーミサイル x3
+AGM-188 MARM_fullName,Full equip name of: AGM-188 MARM,AGM-188 MARM,AGM-188 MARM
+AGM-188 MARM_description,Item description of: AGM-188 MARM,Medium range anti-radiation missile with a unique top down attack angle.,トップダウンの攻撃パターンが特徴の中距離対レーダーミサイル
+eqSublabel_ARM,HUD sub-label of an equip,ARM,
+
+500L Fuel Drop Tank_fullName,Full equip name of: 500L Fuel Drop Tank,500L Fuel Drop Tank,500L 増槽
+500L Fuel Drop Tank_description,Item description of: 500L Fuel Drop Tank,A 500 liter fuel tank.,500Lの外部燃料タンク。
+2200L Fuel Drop Tank_fullName,Full equip name of: 2200L Fuel Drop Tank,2200L Fuel Drop Tank,2200L 二次燃料タンク
+2200L Fuel Drop Tank_description,Item description of: 2200L Fuel Drop Tank,A 2200 liter fuel tank.,2200リットルの二次燃料タンク
+4000L Fuel Drop Tank_fullName,Full equip name of: 4000L Fuel Drop Tank,4000L Fuel Drop Tank,4000L 増槽
+4000L Fuel Drop Tank_description,Item description of: 4000L Fuel Drop Tank,A 4000 liter detachable external fuel tank.,4000Lの投棄可能な外部燃料タンク。
+4200L Fuel Drop Tank_fullName,Full equip name of: 4200L Fuel Drop Tank,4200L Fuel Drop Tank,4200L 増槽
+4200L Fuel Drop Tank_description,Item description of: 4200L Fuel Drop Tank,A 4200 liter fuel tank.,4200Lの外部燃料タンク。
+4600L Drop Tank_fullName,Full equip name of: 4600L Drop Tank,4600L Drop Tank,4600L 増槽
+4600L Drop Tank_description,Item description of: 4600L Drop Tank,A 4600L external fuel drop tank.,4600Lの外部燃料タンク。
+Conformal Fuel Tank_fullName,Full equip name of: Conformal Fuel Tank,Conformal Fuel Tank,コンフォーマル燃料タンク
+Conformal Fuel Tank_description,Item description of: Conformal Fuel Tank,A modification that allows the aircraft to hold an extra 6400L of fuel.,6400Lの燃料を追加で搭載できるようにする装備。
+eqSublabel_BOMB-INTERNAL,HUD sub-label of an equip,BOMB INTERNAL,
+
+PAC-3_fullName,Full equip name of: PAC-3,PAC-3,PAC-3
+PAC-3_description,Item description of: PAC-3,Radar-guided surface-to-air defense missile.,レーダー誘導式の対空ミサイル
+BSM-66_fullName,Full equip name of: BSM-66,BSM-66,BSM-66
+BSM-66_description,Item description of: BSM-66,Standard radar-guided missile.,標準的なレーダー誘導型のミサイル
+BSM-66LR_fullName,Full equip name of: BSM-66LR,BSM-66LR,BSM-66LR
+BSM-66LR_description,Item description of: BSM-66LR,Standard radar-guided missile. Equipped with first stage booster for extended range.,標準的なレーダー誘導型のミサイル。1段のブースターを搭載し、射程を伸ばす。
+FLKM-100_fullName,Full equip name of: FLKM-100,FLKM-100,FLKM-100
+FLKM-100_description,Item description of: FLKM-100,Dual stage long range radar-guided missile that deploys a field of explosive munitions.,2段式の長距離レーダー誘導ミサイルで、爆発性のある子弾をエリア内に散布することができる。
+
+s_cs_granted,Text in campaign selector,Granted,報酬
+s_cs_budget,Text in campaign selector,Budget,予算
+s_cs_newMission,Text in campaign selector,New Mission:,新しいミッション：
+s_cs_newTraining,Text in campaign selector,New Training:,新しい訓練：
+s_cs_newEquip,Text in campaign selector,New Equipment:,新しい装備：
+s_cs_incompatibleVersion,Text in campaign selector,Incompatible game version,ゲームのバージョンが合わない
+campaign_customScenarios,,Custom Scenarios,カスタムシナリオ
+campaign_customScenarios_description,,Play custom scenarios created in the VTEditor.,VTエディタで作成した自作タスクを実行します。
+campaign_ws,,Steam Workshop Scenarios,Steam Workshop シナリオ
+campaign_ws_description,,Play custom scenarios installed through Steam Workshop.,Steamワークショップからインストールしたミッションを実行します。
+s_cInfo_completed,'x% [Completed]' text in campaign selector,Completed,完了
+
+
+AN/AAQ-28 Targeting Pod_fullName,Full equip name of: AN/AAQ-28 Targeting Pod,AN/AAQ-28 Targeting Pod,AN/AAQ-28 ターゲッティングポッド
+AN/AAQ-28 Targeting Pod_description,Item description of: AN/AAQ-28 Targeting Pod,Sensor pod for acquiring and tracking targets using optics and lasers.  A necessary component for certain guided missiles.,ターゲティングとトラッキングのためのセンサーポッドで、光学とレーザーを搭載。 誘導兵器に必要な装置。
 vehicleConfig_denyBusy,Denial message for vehicle configurator,BUSY: RELOADING,
 vehicleConfig_invalidReload,Denial message for vehicle configurator,Full reload will be over budget!,フルリロードすると予算オーバーになってしまいます！
 vehicleConfig_countermeasures,,Countermeasures,妨害システム
@@ -199,38 +324,6 @@ vehicleConfig_save,,Save,セーブ
 vehicleConfig_saveNew,,Save new...,新しくセーブ...
 vehicleConfig_overwrite,,Overwrite...,上書き...
 vehicleConfig_delete,,Delete,削除
-CG25 Twin Chaingun_fullName,Full equip name of: CG25 Twin Chaingun,CG25 Twin Chaingun,CG25 二連装チェーンガン
-CG25 Twin Chaingun_description,Item description of: CG25 Twin Chaingun,A fixed 25mm dual-barrel chaingun.,固定式25mm二連装チェーンガン
-MK-83 x12_fullName,Full equip name of: MK-83 x12,MK-83 x12,MK-83 x12
-MK-83 x12_description,Item description of: MK-83 x12,A rack of 12 MK-83 1000lb bombs.,MK-83 1000ポンド爆弾 x12
-Mk.82 Bomb x2_fullName,Full equip name of: Mk.82 Bomb x2,Mk.82 Bomb x2,
-Mk.82 Bomb x2_description,Item description of: Mk.82 Bomb x2,Two standard un-guided 500lb bombs.,標準的な500ポンド無誘導爆弾 x2
-ASF-SRM x3_fullName,Full equip name of: ASF-SRM x3,ASF-SRM x3,ASF-SRM x3
-ASF-SRM x3_description,Item description of: ASF-SRM x3,A rack of three standard heat-seeking anti-air missiles.,標準的な赤外線誘導式空対空ミサイル x3
-ASMRM-7 x6 Internal_fullName,Full equip name of: ASMRM-7 x6 Internal,ASMRM-7 x6 Internal,ASMRM-7 x6 Internal
-ASMRM-7 x6 Internal_description,Item description of: ASMRM-7 x6 Internal,Medium range radar guided air to air missile. Missiles are stowed internally to improve stealth and aerodynamics.,中距離レーダー誘導型の空対空ミサイル。ミサイルは内部マウントに搭載され、ステルス性と空力性能を向上させています。
-Conformal Fuel Tank_fullName,Full equip name of: Conformal Fuel Tank,Conformal Fuel Tank,コンフォーマル燃料タンク
-Conformal Fuel Tank_description,Item description of: Conformal Fuel Tank,A modification that allows the aircraft to hold an extra 6400L of fuel.,6
-AGM-114 x4_fullName,Full equip name of: AGM-114 x4,AGM-114 x4,AGM-114 x4
-AGM-114 x4_description,Item description of: AGM-114 x4,"A rack of 4 laser guided anti-tank missiles.
-Requires continuous lock for guidance (not fire-and-forget).","レーザー誘導式対戦車ミサイル x4
-常にロックしておく必要がある（撃ちっぱなしではない）。"
-AGM-89 Anti-ship Cruise Missile_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile,AGM-89 Anti-ship Cruise Missile,AGM-89 対艦巡航ミサイル
-AGM-89 Anti-ship Cruise Missile_description,Item description of: AGM-89 Anti-ship Cruise Missile,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology.",空中発射される対艦巡航ミサイル。経路巡航技術、レーダー目標捕捉技術、ターミナルマヌーバー技術を搭載。
-MK-82 x32_fullName,Full equip name of: MK-82 x32,MK-82 x32,MK-82 x32
-MK-82 x32_description,Item description of: MK-82 x32,A rack of 32 MK-82 bombs.,
-BSM-66LR_fullName,Full equip name of: BSM-66LR,BSM-66LR,BSM-66LR
-BSM-66LR_description,Item description of: BSM-66LR,Standard radar-guided missile. Equipped with first stage booster for extended range.,標準的なレーダー誘導型のミサイル。1段のブースターを搭載し、射程を伸ばす。
-Mk.82 Bomb x1_fullName,Full equip name of: Mk.82 Bomb x1,Mk.82 Bomb x1,Mk.82 爆弾 x1
-Mk.82 Bomb x1_description,Item description of: Mk.82 Bomb x1,Standard un-guided 500lb bomb.,標準的な500ポンド無誘導爆弾
-AGM-126 SideARM II x3_fullName,Full equip name of: AGM-126 SideARM II x3,AGM-126 SideARM II x3,AGM-126 対レーダーミサイル x3
-AGM-126 SideARM II x3_description,Item description of: AGM-126 SideARM II x3,Compact short range anti-radiation missile based on the AIM-9x.,AIM-9xをベースとした小型短距離対レーダーミサイル x3
-4600L Drop Tank_fullName,Full equip name of: 4600L Drop Tank,4600L Drop Tank,4600L 増槽
-4600L Drop Tank_description,Item description of: 4600L Drop Tank,A 4600L external fuel drop tank.,4600Lの外部燃料タンク。
-AIM-9+ Sidewinder_fullName,Full equip name of: AIM-9+ Sidewinder,AIM-9+ Sidewinder,AIM-9+ サイドワインダー
-AIM-9+ Sidewinder_description,Item description of: AIM-9+ Sidewinder,Advanced short range heat seeking air to air missile.,改良型短距離赤外線誘導空対空ミサイル
-AIM-9 Sidewinder x2_fullName,Full equip name of: AIM-9 Sidewinder x2,AIM-9 Sidewinder x2,AIM-9 サイドワインダー x2
-AIM-9 Sidewinder x2_description,Item description of: AIM-9 Sidewinder x2,A rack of two standard heat-seeking Sidewinder anti-air missiles.,標準的な短距離赤外線誘導空対空ミサイル x2
 interactable_button_grip,,Grip,グリップ
 interactable_button_trigger,,Trigger,トリガー
 s_endMission_quickload,Label for quickload button in end-mission display 'Quick Load (x mins ago)',Quick Load,クイックロード
@@ -581,36 +674,16 @@ sCam_behavior_4,S-Cam behavior,PresetViews,プリセットビュー
 sCam_behavior_5,S-Cam behavior,SmoothLook,スムースルック
 sCam_behavior_6,S-Cam behavior,Camcorder,監視カメラ
 arad_DECL,ARAD declutter button label,DECL,
-AIM-120 Advanced Radar Missile_fullName,Full equip name of: AIM-120 Advanced Radar Missile,AIM-120 Advanced Radar Missile,AIM-120 高性能レーダーミサイル
-AIM-120 Advanced Radar Missile_description,Item description of: AIM-120 Advanced Radar Missile,"Radar guided medium range air to air missile.
-",レーダー誘導型の中距離空対空ミサイル
-eqSublabel_RADAR-AAM,HUD sub-label of an equip,RADAR AAM,
 loadoutConfig_cannon,Cannon hardpoint label,Cannon,キャノン砲
 fa26_loadout_extFuelL,External Fuel Left,Ext fuel l,外部燃料タンク左
 fa26_loadout_extFuelR,External Fuel Right,Ext fuel r,外部燃料タンク右
 fa26_loadout_extFuelC,External Fuel Centerline,Ext fuel center,外部燃料タンク中
 fa26_loadout_extSensor,External Sensor,Ext sensor,外部センサー
 fa26_loadout_cft,Conformal Fuel Tank,Cft,コンフォーマル燃料タンク
-Mk-82AIR High Drag Bomb x1_fullName,Full equip name of: Mk-82AIR High Drag Bomb x1,Mk-82AIR High Drag Bomb x1,Mk-82AIR 高耐性爆弾 x1
-Mk-82AIR High Drag Bomb x1_description,Item description of: Mk-82AIR High Drag Bomb x1,Standard un-guided 500lb bomb. Deploys an inflatable drag chute to slow descent for low altitude bombing.,標準的な無誘導の500ポンド爆弾。 降下速度を遅くするためのインフレータブル減速パラシュートを装備しており、低空での爆撃に適しています。
-AGM-145 Ballista x3_fullName,Full equip name of: AGM-145 Ballista x3,AGM-145 Ballista x3,AGM-145 バリスタ x3
-AGM-145 Ballista x3_description,Item description of: AGM-145 Ballista x3,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.",高度な光学系「撃ちっぱなしミサイル」。スマートセルフターゲティング技術を搭載した小型対戦車ミサイル x3。指定されたターゲットポイントへの視線が無くても発射でき、敵のターゲットを自動的にロックします。
-eqSublabel_OPTICAL-FAF,HUD sub-label of an equip,OPTICAL FAF,
-GBU-38 Bomb x1_fullName,Full equip name of: GBU-38 Bomb x1,GBU-38 Bomb x1,
-GBU-38 Bomb x1_description,Item description of: GBU-38 Bomb x1,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,500ポンドのGPS誘導爆弾。Mk.82爆弾に誘導装置を取り付けたものです。
-CBU-97 Bomb x1_fullName,Full equip name of: CBU-97 Bomb x1,CBU-97 Bomb x1,
-CBU-97 Bomb x1_description,Item description of: CBU-97 Bomb x1,A smart cluster bomb that fires 40 explosively shaped armor penetrators at targets.,40個の徹甲弾を目標に散布することができるスマートクラスター爆弾。
+
+
 eqSublabel_CLUSTER-BOMB,HUD sub-label of an equip,CLUSTER BOMB,
 s_cbuAlt,HUD when below submunition deploy altitude of cluster bomb,BELOW CBU ALT,
-Hydra-70 x19 Rocket Pod_fullName,Full equip name of: Hydra-70 x19 Rocket Pod,Hydra-70 x19 Rocket Pod,Hydra-70 x19 ロケットポッド
-Hydra-70 x19 Rocket Pod_description,Item description of: Hydra-70 x19 Rocket Pod,"A pod carrying a total of 19 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",19発の高性能ロケット弾の発射ポッド。単発でも連射でもOK。
-M230 Chain Gun_fullName,Full equip name of: M230 Chain Gun,M230 Chain Gun,M230 チェーンガン
-M230 Chain Gun_description,Item description of: M230 Chain Gun,A single-barrel 30mm automatic cannon mounted on a gimbal. The gimbal will be locked forward above a certain airspeed.,回転式砲塔に搭載された30mm単装チェーンガン。砲塔は高速でロックされます。
-eqSublabel_CANNON-GIMBAL,HUD sub-label of an equip,CANNON GIMBAL,
-gunTurret_locked,Label for when a gun turret is set to be locked in the forward-aiming position.,LOCKED,
-gunTurret_slaved,Label for wh en a gun turret is set to be controlled by (slaved to) an external sensor.,SLAVED,
-gunTurret_gimbal,Option title for gun turrets' gimbal (rotation/aiming) to be locked or slaved.,GIMBAL,
-gunTurret_speedlock,Label when gun turret is locked due to overspeed,SPEEDLOCK,
 tutName_Hover Tutorial,Name of a legacy tutorial objective,Hover Tutorial,ホバリングのチュートリアル
 tutDesc_Hover Tutorial,Description of a legacy tutorial,Learn to hover.,ホバリングを覚えましょう
 tut:Hover Tutorial:Intro10,A tutorial label,Welcome to the hover tutorial.,ホバリングのチュートリアルへようこそ
@@ -659,16 +732,6 @@ tut:Hover Tutorial:PostLand28,A tutorial label,Throttle down!,スロットルを
 tut:Hover Tutorial:Complete29,A tutorial label,Tutorial complete! Good job!,チュートリアル完了です。よくできましたね。
 UCAV GMA-14 Launcher_fullName,Full equip name of: UCAV GMA-14 Launcher,UCAV GMA-14 Launcher,UCAV GMA-14 ランチャー
 UCAV GMA-14 Launcher_description,Item description of: UCAV GMA-14 Launcher,Single air-to-ground missile launcher for UCAV.,ドローン用の単一の空対地ミサイルランチャー
-GBU-12 Laser Guided Bomb x2_fullName,Full equip name of: GBU-12 Laser Guided Bomb x2,GBU-12 Laser Guided Bomb x2,GBU-12 レーザー誘導爆弾 x2
-GBU-12 Laser Guided Bomb x2_description,Item description of: GBU-12 Laser Guided Bomb x2,A rack of two 500lb laser guided bombs.,500ポンドレーザー誘導爆弾 x2
-M62 Vulcan 20mm_fullName,Full equip name of: M62 Vulcan 20mm,M62 Vulcan 20mm,M62 バルカン
-M62 Vulcan 20mm_description,Item description of: M62 Vulcan 20mm,A modern 20mm rotary cannon.,現代の20mmバルカン砲
-GBU-38 Bomb x2_fullName,Full equip name of: GBU-38 Bomb x2,GBU-38 Bomb x2,
-GBU-38 Bomb x2_description,Item description of: GBU-38 Bomb x2,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,500ポンドのGPS誘導爆弾 x2。Mk.82爆弾に誘導アタッチメントを付けたものです。
-Hydra-70 x14 Rocket Pod_fullName,Full equip name of: Hydra-70 x14 Rocket Pod,Hydra-70 x14 Rocket Pod,Hydra-70 x14 ロケットポッド
-Hydra-70 x14 Rocket Pod_description,Item description of: Hydra-70 x14 Rocket Pod,"A pair of pods carrying a total of 14 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",14発の高性能ロケット弾の発射ポッド。単発でも連射でもOK。
-AIM-9+ Sidewinder x2_fullName,Full equip name of: AIM-9+ Sidewinder x2,AIM-9+ Sidewinder x2,AIM-9+ サイドワインダー x2
-AIM-9+ Sidewinder x2_description,Item description of: AIM-9+ Sidewinder x2,An internally mounted rack of two advanced heat-seeking AIM-9+ anti-air missiles.,赤外線誘導の短距離空対空ミサイル2基を内部マウントに搭載。
 GMA-6 x2_fullName,Full equip name of: GMA-6 x2,GMA-6 x2,GMA-6 x2
 GMA-6 x2_description,Item description of: GMA-6 x2,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",中距離光学誘導式「ポストランチ」対戦車ミサイル x2。
 tutName_Weapon Basics,Name of a legacy tutorial objective,Weapon Basics,武器の基礎知識
@@ -1023,24 +1086,7 @@ AV-42C_mfd_altitudeSettings:L4_tooltip,Tooltip for an MFD button.,Min Alt -,最�
 AV-42C_mfd_altitudeSettings:R3_tooltip,Tooltip for an MFD button.,Max Alt +,最大高度 +
 AV-42C_mfd_altitudeSettings:R4_tooltip,Tooltip for an MFD button.,Max Alt -,最大高度 -
 AV-42C_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode,高度モード切替
-EUCAV GUN_fullName,Full equip name of: EUCAV GUN,EUCAV GUN,
-EUCAV GUN_description,Item description of: EUCAV GUN,EUCAV GUN,
-GBU-53 Advanced SD Bomb x4_fullName,Full equip name of: GBU-53 Advanced SD Bomb x4,GBU-53 Advanced SD Bomb x4,GBU-53 高性能小口径爆弾 x4
-GBU-53 Advanced SD Bomb x4_description,Item description of: GBU-53 Advanced SD Bomb x4,An internally mounted rack of 4 optically guided small diameter bomb. Each bomb has built-in folding wings that allow it to glide for long distances and hit targets with precision. Advanced optics allow it to track moving targets from extended range without laser designation.,光学的に誘導された4個の小径爆弾を内部マウントに搭載。折りたたみ式のグライダー翼が内蔵されており、長距離を滑空して正確にターゲットを狙うことができます。高度な光学系により、レーザーガイダンスなしで遠距離の移動目標を追跡することができます。
-eqSublabel_OPTICAL-BOMB-FAF,HUD sub-label of an equip,OPTICAL BOMB FAF,
-AGM-145 Ballista x4_fullName,Full equip name of: AGM-145 Ballista x4,AGM-145 Ballista x4,AGM-145 バリスタ x4
-AGM-145 Ballista x4_description,Item description of: AGM-145 Ballista x4,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.",高度な光学系、「撃ちっぱなし可能」、インテリジェント・セルフターゲティング技術を搭載した4発の小型対戦車ミサイル。 ターゲットポイントを直接見ずに発射でき、敵のターゲットを自動的にロックすることができます。
-SB-1 x32_fullName,Full equip name of: SB-1 x32,SB-1 x32,SB-1 x32
-SB-1 x32_description,Item description of: SB-1 x32,A rack of 32 standard un-guided 500lb bombs.,32個の標準的な500ポンド無誘導爆弾。
-AGM-126 SideARM II x1_fullName,Full equip name of: AGM-126 SideARM II x1,AGM-126 SideARM II x1,AGM-126 対レーダーミサイル x1
-AGM-126 SideARM II x1_description,Item description of: AGM-126 SideARM II x1,Compact short range anti-radiation missile based on the AIM-9x.,AIM-9xをベースとした小型短距離対レーダーミサイル。
-AGM-65 x3_fullName,Full equip name of: AGM-65 x3,AGM-65 x3,AGM-65 x3
-AGM-65 x3_description,Item description of: AGM-65 x3,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",中距離光学誘導式「撃ちっぱなし可能」対戦車ミサイル x3
-Mk-82 Bomb x2_fullName,Full equip name of: Mk-82 Bomb x2,Mk-82 Bomb x2,
-Mk-82 Bomb x2_description,Item description of: Mk-82 Bomb x2,Two standard un-guided 500lb bombs.,標準的な500ポンド無誘導爆弾 x2
 loadingView_loadingMap,Text in custom map loading view.,Loading map...,マップ読込中…
-Mk.82 Bomb x3_fullName,Full equip name of: Mk.82 Bomb x3,Mk.82 Bomb x3,Mk.82 爆弾 x3
-Mk.82 Bomb x3_description,Item description of: Mk.82 Bomb x3,Standard un-guided 500lb bombs.,標準的な500ポンド無誘導爆弾 x3
 mfdpOpenMenu,Tooltip for button that opens a menu.,Open Menu,メニューを開く
 mfdpBLANK,Label for a minimized MFD portal that is empty. Opens the portal menu.,BLANK,
 MFDPortalHome_MFDPortalPage_pageName,MFD portal page name,Menu,メニュー
@@ -1086,17 +1132,8 @@ GameMenuPage_MFDPortalPage_pageName,MFD portal page name,Game Menu,ゲームメ�
 GameMenuPage_MFDPortalPage_pageLabel,MFD portal page button label,GAME,ゲーム
 GPSSystem_MFDPortalPage_pageName,MFD portal page name,GPS Targets,GPSターゲット
 GPSSystem_MFDPortalPage_pageLabel,MFD portal page button label,GPST,
-CAGM-6 Cluster Missile_fullName,Full equip name of: CAGM-6 Cluster Missile,CAGM-6 Cluster Missile,CAGM-6 クラスターミサイル
-CAGM-6 Cluster Missile_description,Item description of: CAGM-6 Cluster Missile,"An optically guided ""fire-and-forget"" missile. 
-Deploys 6 submunitions that independently seek targets in the field of view.","光学誘導式の「撃ちっぱなし可能」クラスター・ミサイル。
-6つの子弾が分散され、それぞれが独立して視野内の目標を見つけることができます。"
-eqSublabel_OPTICAL-FF-CLUSTER,HUD sub-label of an equip,OPTICAL FF CLUSTER,
 MAD-4 Missile_fullName,Full equip name of: MAD-4 Missile,MAD-4 Missile,MAD-4 Missile
 MAD-4 Missile_description,Item description of: MAD-4 Missile,Standard radar-guided missile built for the Mobile Air Defense launcher. It has a range of about 55km (30nm).,移動式防空ランチャー用の標準的なレーダー誘導ミサイル。射程距離は約55km（30海里）。
-FLKM-100_fullName,Full equip name of: FLKM-100,FLKM-100,FLKM-100
-FLKM-100_description,Item description of: FLKM-100,Dual stage long range radar-guided missile that deploys a field of explosive munitions.,2段式の長距離レーダー誘導ミサイルで、爆発性のある子弾をエリア内に散布することができる。
-4200L Fuel Drop Tank_fullName,Full equip name of: 4200L Fuel Drop Tank,4200L Fuel Drop Tank,4200L 増槽
-4200L Fuel Drop Tank_description,Item description of: 4200L Fuel Drop Tank,A 4200 liter fuel tank.,4200Lの外部燃料タンク。
 tutName_Getting Started,Name of a legacy tutorial objective,Getting Started,始めましょう
 tutDesc_Getting Started,Description of a legacy tutorial,Complete the intro tutorial.,入門編のチュートリアルを完了してください
 tut:Getting Started:Intro10,A tutorial label,Welcome to the AV-42C,AV-42Cへようこそ！
@@ -1301,16 +1338,7 @@ tut:Basic Flight:Done46,A tutorial label,Congratulations!  This concludes the ba
 これでフライトの基本
 チュートリアルは終了です。
 次のチュートリアルに進んでください。"
-AIM-120D Advanced Radar Missile x2_fullName,Full equip name of: AIM-120D Advanced Radar Missile x2,AIM-120D Advanced Radar Missile x2,AIM-120D 高性能レーダーミサイル x2
-AIM-120D Advanced Radar Missile x2_description,Item description of: AIM-120D Advanced Radar Missile x2,"Two internally mounted, radar guided, medium range air to air missiles.
-",レーダー誘導式中距離空対空ミサイル x2、内部マウントに搭載。
-AGM-145 Ballista x2_fullName,Full equip name of: AGM-145 Ballista x2,AGM-145 Ballista x2,AGM-145 バリスタ x2
-AGM-145 Ballista x2_description,Item description of: AGM-145 Ballista x2,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.",高度な光学系、「撃ちっぱなし可能」、インテリジェント・セルフターゲティング技術を搭載した小型対戦車ミサイル x2。 ターゲットポイントを直接見ずに発射でき、自動的に敵を狙うことができます。
 eqSublabel_LASER-BOMB-INTERNAL,HUD sub-label of an equip,LASER BOMB INTERNAL,
-Mk-82 Bomb x1_fullName,Full equip name of: Mk-82 Bomb x1,Mk-82 Bomb x1,
-Mk-82 Bomb x1_description,Item description of: Mk-82 Bomb x1,Standard un-guided 500lb bomb.,標準的な無誘導の500ポンド爆弾。
-AIM-120 Advanced Radar Missile x2_fullName,Full equip name of: AIM-120 Advanced Radar Missile x2,AIM-120 Advanced Radar Missile x2,AIM-120 高性能レーダーミサイル x2
-AIM-120 Advanced Radar Missile x2_description,Item description of: AIM-120 Advanced Radar Missile x2,A rack of two radar guided medium range air to air missiles.,レーダー誘導式中距離空対空ミサイル x2。
 tutName_Vertical Flight,Name of a legacy tutorial objective,Vertical Flight,垂直離着陸
 tutDesc_Vertical Flight,Description of a legacy tutorial,Complete the Vertical Flight tutorial.,垂直飛行のチュートリアルを完了してください
 tut:Vertical Flight:Intro10,A tutorial label,Welcome to the Vertical Flight autopilot training.,"
