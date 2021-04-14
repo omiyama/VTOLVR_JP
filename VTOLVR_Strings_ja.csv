@@ -2489,7 +2489,7 @@ err_scenarioNotFound,Error message for workshop browser,Scenario not found!,ミ�
 err_version,Error message for workshop browser,Incompatible game version!,ゲームバージョンの互換性が無い
 vehicleConfig_denyOverBudget,Denial message for vehicle configurator,OVER BUDGET,予算超過
 vehicleConfig_repairOverBudget,Denial message for vehicle configurator,Insufficient funds to repair.,修理のための資金が不足しています
-briefingUI_configure,Start button in mission briefing,Configure,機体整備
+briefingUI_configure,Start button in mission briefing,Configure,機体整備へ
 briefingUI_fly,Start button in mission briefing,Fly,出発
 mfd_home,MFD home page button,Home,
 env_morning,Environment setting,Morning,早朝
