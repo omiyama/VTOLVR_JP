@@ -2483,7 +2483,7 @@ setting_disabled,Label for a disabled option in settings UI,OFF,
 s_scenarios,,Scenarios,
 s_campaigns,,Campaigns,
 s_maps,,Maps,
-err_LogSteam,Error message for workshop browser,Must be logged into Steam!,Steamへのログインが必要です
+err_LogSteam,Error message for workshop browser,Must be logged into Steam!,Steamへのログインが必要
 err_wsConnect,Error message for workshop browser,Failed to connect to Steam Workshop!,Steam Workshopに接続できません
 err_scenarioNotFound,Error message for workshop browser,Scenario not found!,ミッションが見つかりません
 err_version,Error message for workshop browser,Incompatible game version!,ゲームバージョンの互換性が無い
