@@ -3414,3 +3414,164 @@ AH-94_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,
 AH-94_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,プレイヤー表示
 AH-94_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,
 AH-94_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,Network Analytics,ネットワーク調査
+AH-94_mfd_gpsTgts:T2,Label for an MFD button (short!).,MAP,,
+AH-94_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,,
+AH-94_mfd_gpsTgts:T3,Label for an MFD button (short!).,WPT,,
+AH-94_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,ウェイポイントセット
+AH-94_mfd_gpsTgts:L2_tooltip,Tooltip for an MFD button.,Previous Group,前のグループ
+AH-94_mfd_gpsTgts:L3_tooltip,Tooltip for an MFD button.,Next Group,次のグループ
+AH-94_mfd_gpsTgts:B1_tooltip,Tooltip for an MFD button.,Create Group,グループ作成
+AH-94_mfd_gpsTgts:B2_tooltip,Tooltip for an MFD button.,Delete Group,グループ削除
+AH-94_mfd_gpsTgts:B4_tooltip,Tooltip for an MFD button.,Delete Target,ターゲット削除
+AH-94_mfd_gpsTgts:R3_tooltip,Tooltip for an MFD button.,Next Target,次のターゲット
+AH-94_mfd_gpsTgts:R2_tooltip,Tooltip for an MFD button.,Previous Target,前のターゲット
+AH-94_mfd_gpsTgts:R1_tooltip,Tooltip for an MFD button.,Toggle Path Mode,パスモード切替
+AH-94_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,上へ
+AH-94_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,下へ
+AH-94_mfd_gpsTgts:B5,Label for an MFD button (short!).,SEND,,
+AH-94_mfd_gpsTgts:B5_tooltip,Tooltip for an MFD button.,Send Data,データ送信
+ah94-tutorials:ah94tut_intro:19422556,Text from a tutorial.,Welcome to the AH-94 Attack Helicopter,AH-94 攻撃ヘリにようこそ
+ah94-tutorials:ah94tut_intro:-376660370,Text from a tutorial.,"Don't worry about memorizing everything now.
+We'll go into more details in later sessions.","今、すべてを暗記する必要はありません。
+この後のセッションで順番に詳しく説明していきます。"
+ah94-tutorials:ah94tut_intro:1034937162,Text from a tutorial.,Close door,ドアを閉める
+ah94-tutorials:ah94tut_intro:-316527414,Text from a tutorial.,The AH-94 is a twin turboshaft attack helicopter with a tandem cockpit for two crew members.,AH-94は、2名の乗員が搭乗できるタンデムコックピットを持つツインターボシャフト搭載の攻撃型ヘリです。
+ah94-tutorials:ah94tut_intro:1752602625,Text from a tutorial.,It has a traditional rotor configuration of a large main rotor and small tail rotor.,大きなメインローターと小さなテールローターという伝統的なローター構成になっています。
+ah94-tutorials:ah94tut_intro:-1985220033,Text from a tutorial.,"The helicopter can be flown from either the rear pilot seat, or the front copilot gunner seat.","ヘリコプターは後部操縦席と前部副操縦席のどちらからでも操縦可能です。"
+ah94-tutorials:ah94tut_intro:1196723661,Text from a tutorial.,You can decide how to split up responsibilities.,それぞれの責任の分担を決めることができます。
+ah94-tutorials:ah94tut_intro:-1074204169,Text from a tutorial.,"Now, let's quickly go over each of the components in the cockpit.","では、さっそくコックピットの各構成を確認してみましょう。"
+ah94-tutorials:ah94tut_intro:1907761766,Text from a tutorial.,Main Battery,メインバッテリー
+ah94-tutorials:ah94tut_intro:1142499294,Text from a tutorial.,APU Switch,APUスイッチ
+ah94-tutorials:ah94tut_intro:49749272,Text from a tutorial.,Engine Starters,エンジンスターター
+ah94-tutorials:ah94tut_intro:1141160697,Text from a tutorial.,Comms Panel,通信パネル
+ah94-tutorials:ah94tut_intro:256218186,Text from a tutorial.,Multi-function Displays (MFDs),マルチファンクションディスプレイ（MFDs）
+ah94-tutorials:ah94tut_intro:1981821705,Text from a tutorial.,Up-front Display (UFD),アップフロントディスプレイ（UFD）
+ah94-tutorials:ah94tut_intro:-1254142523,Text from a tutorial.,Radar Warning Receiver (RWR),レーダー警報装置（RWR）
+ah94-tutorials:ah94tut_intro:180828969,Text from a tutorial.,Attitude Indicator,姿勢表示機
+ah94-tutorials:ah94tut_intro:270913576,Text from a tutorial.,VSI,VSI
+ah94-tutorials:ah94tut_intro:1363486210,Text from a tutorial.,Gauges,ゲージ
+ah94-tutorials:ah94tut_intro:1750669213,Text from a tutorial.,Master Armament,マスターアーム
+ah94-tutorials:ah94tut_intro:-119708538,Text from a tutorial.,Head Mounted Display (HMD),ヘッドマウントディスプレイ（HMD）
+ah94-tutorials:ah94tut_intro:-1651002835,Text from a tutorial.,Lights,ライト
+ah94-tutorials:ah94tut_intro:-717672991,Text from a tutorial.,Rotor Fold,ローターフォールド（折りたたみ）
+ah94-tutorials:ah94tut_intro:1560422243,Text from a tutorial.,Rotor Brake,ローターブレーキ
+ah94-tutorials:ah94tut_intro:239096644,Text from a tutorial.,Flight Control Indicator,フライトコントロール表示機
+ah94-tutorials:ah94tut_intro:-947816217,Text from a tutorial.,Parking Brake,パーキングブレーキ
+ah94-tutorials:ah94tut_intro:-364413396,Text from a tutorial.,Landing Gear,ランディングギア
+ah94-tutorials:ah94tut_intro:1071956107,Text from a tutorial.,Countermeasure Count,カウンターメジャーの残り数
+ah94-tutorials:ah94tut_intro:-1993091261,Text from a tutorial.,Power Lever,パワーレバー
+ah94-tutorials:ah94tut_intro:-1227118498,Text from a tutorial.,Stores Jettison Panel,廃棄関係パネル
+ah94-tutorials:ah94tut_intro:-769882903,Text from a tutorial.,MP3 Player,MP3 プレイヤー
+ah94-tutorials:ah94tut_intro:-1369241671,Text from a tutorial.,"Finally, and most importantly,
+the flight controls...","最後に、そして最も重要なこと。フライトコントロールについて。"
+ah94-tutorials:ah94tut_intro:-190358438,Text from a tutorial.,Collective,コレクティブ
+ah94-tutorials:ah94tut_intro:16158667,Text from a tutorial.,Cyclic,サイクリック
+ah94-tutorials:ah94tut_intro:1181564828,Text from a tutorial.,Anti-Torque Pedals,アンチトルクペダル
+ah94-tutorials:ah94tut_intro:2100509273,Text from a tutorial.,Switch Seat,シート交代
+ah94-tutorials:ah94tut_intro:1660567099,Text from a tutorial.,TEDAC,TEDAC
+ah94-tutorials:ah94tut_intro:1874783894,Text from a tutorial.,Used to control weapons and sensors,武器やセンサーを制御するために使用
+ah94-tutorials:ah94tut_intro:1122558785,Text from a tutorial.,"This concludes the general overview of the AH-94 cockpit. 
+You can move on to the next session to learn about how to get this thing started","これでAH-94のコックピットの概説は終了です。
+次回は、このコックピットの動かし方について説明します。"
+ah94-tutorials:ah94tut_startup:1128922264,Text from a tutorial.,"Welcome back. 
+In this session, we'll go over the start up and shut down procedures.","お帰りなさい。
+このセッションでは、起動とシャットダウンの手順について説明します。"
+ah94-tutorials:ah94tut_startup:1034936170,Text from a tutorial.,Close Door,ドアを閉める
+ah94-tutorials:ah94tut_startup:-1646413177,Text from a tutorial.,"Before starting up, let's make sure everythings in the right state.","起動する前に、すべてのものが正しい状態であることを確認しましょう。"
+ah94-tutorials:ah94tut_startup:82369606,Text from a tutorial.,Power OFF,パワー OFF
+ah94-tutorials:ah94tut_startup:1470929646,Text from a tutorial.,Collective DOWN,コレクティブ DOWN
+ah94-tutorials:ah94tut_startup:1804128206,Text from a tutorial.,Parking Brake ON,パーキングブレーキ ON
+ah94-tutorials:ah94tut_startup:110275040,Text from a tutorial.,Rotor Fold OFF,ローターフォールド（折りたたみ）OFF
+ah94-tutorials:ah94tut_startup:-60114957,Text from a tutorial.,Main Battery ON,メインバッテリー ON
+ah94-tutorials:ah94tut_startup:-2082845684,Text from a tutorial.,This will supply power to all of the aircraft's electrical components.,これにより、航空機のすべての電気部品に電源が供給されます。
+ah94-tutorials:ah94tut_startup:-1262370107,Text from a tutorial.,APU ON,APU ON
+ah94-tutorials:ah94tut_startup:2044839981,Text from a tutorial.,The engine starters use up a lot of power so we're gonna need the APU to keep the battery charged.,エンジンスターターは電力をたくさん使うので、バッテリーを充電しておくためにAPUが必要になるのです。
+ah94-tutorials:ah94tut_startup:77535439,Text from a tutorial.,Turn on UFD,UFD ON
+ah94-tutorials:ah94tut_startup:802677574,Text from a tutorial.,Display STAT,ディスプレイ STAT
+ah94-tutorials:ah94tut_startup:343282393,Text from a tutorial.,Engine/Rotor Status,エンジン/ローター 状態表示
+ah94-tutorials:ah94tut_startup:-2011786336,Text from a tutorial.,Rotor Brake OFF,ローターブレーキ OFF
+ah94-tutorials:ah94tut_startup:-586267315,Text from a tutorial.,Left Starter ON,レフトスターター ON
+ah94-tutorials:ah94tut_startup:-755391735,Text from a tutorial.,This system will spin up the turbine to a suitable RPM to begin combustion.,このシステムにより、タービンを適切な回転数まで回転させ、燃焼を開始させます。
+ah94-tutorials:ah94tut_startup:1659883589,Text from a tutorial.,Running two starters can often overload the power supply so I'd start one at a time.,スターターを2つ動かすと電源に負荷がかかることが多いので、1つずつ始動させます。
+ah94-tutorials:ah94tut_startup:840356780,Text from a tutorial.,Spool to 10-12%,スプール 10-12%
+ah94-tutorials:ah94tut_startup:815576579,Text from a tutorial.,Power Lever IDLE,パワーレバー IDLE
+ah94-tutorials:ah94tut_startup:937278904,Text from a tutorial.,The starter  will run the turbine up to about 30% and automatically shut itself off.,スターターはタービンを30％程度まで回し、自動的に停止します。
+ah94-tutorials:ah94tut_startup:1462518884,Text from a tutorial.,Starter Indicator,スターター表示機
+ah94-tutorials:ah94tut_startup:-808588756,Text from a tutorial.,Right Starter ON,ライトスターター ON
+ah94-tutorials:ah94tut_startup:368229976,Text from a tutorial.,"Great, now both engines are fired up and running stable at idle.","素晴らしい！これで両方のエンジンが起動し、アイドリングで安定した運転をするようになりました。"
+ah94-tutorials:ah94tut_startup:1013008207,Text from a tutorial.,Power Lever FLIGHT,パワーレバー FLIGHT
+ah94-tutorials:ah94tut_startup:-440988520,Text from a tutorial.,Watch Rotor RPM,ローター回転数（RPM）確認
+ah94-tutorials:ah94tut_startup:-942756284,Text from a tutorial.,"You don't need to worry about
+ applying the the proper throttle to maintain rotor RPM.","あまり回転数を気にする必要はありません。
+ ロータースピードを維持するために適切なスロットルが適用されます。"
+ah94-tutorials:ah94tut_startup:963997311,Text from a tutorial.,Just leave the power lever in the flight position and the system handles it for you.,パワーレバーをフライトポジションにしておくだけで、システムが自動で処理してくれます。
+ah94-tutorials:ah94tut_startup:-1751880937,Text from a tutorial.,APU OFF,APU OFF
+ah94-tutorials:ah94tut_startup:-827232670,Text from a tutorial.,Turn ON,ターンON
+ah94-tutorials:ah94tut_startup:-1779762556,Text from a tutorial.,HMD ON,HMD ON
+ah94-tutorials:ah94tut_startup:-1473571446,Text from a tutorial.,"At this point, the helicopter is ready to take off!","この時点で、ヘリコプターの離陸準備は完了です!"
+ah94-tutorials:ah94tut_startup:37837222,Text from a tutorial.,"We can practice taking off and hovering in another session, so let's go over the shut down procedure.","離陸やホバリングの練習は別の回で行うとして、シャットダウンの手順を確認しましょう。"
+ah94-tutorials:ah94tut_startup:-47447016,Text from a tutorial.,Turn OFF,ターンOFF
+ah94-tutorials:ah94tut_startup:1313663526,Text from a tutorial.,HMD OFF,HMD OFF
+ah94-tutorials:ah94tut_startup:-2028233962,Text from a tutorial.,UFD OFF,UFD OFF
+ah94-tutorials:ah94tut_startup:-1101578338,Text from a tutorial.,Power Lever OFF,パワーレバー OFF
+ah94-tutorials:ah94tut_startup:-2136612091,Text from a tutorial.,Engines shutting down,エンジンシャットダウン
+ah94-tutorials:ah94tut_startup:-1611741902,Text from a tutorial.,Rotor Brake ON,ローターブレーキ ON
+ah94-tutorials:ah94tut_startup:-901397587,Text from a tutorial.,Main Battery OFF,メインバッテリー OFF
+ah94-tutorials:ah94tut_startup:-597259220,Text from a tutorial.,And that's it!  This concludes the AH-94 start up and shutdown procedures.  See you next time.,"以上です。
+AH-94の起動と停止の手順は終了です。
+それではまた次回。"
+ah94-tutorials:ah94tut_wpnTads:-1450007236,Text from a tutorial.,Welcome!  Today we'll learn about the TADS and how to use the gun along side it.,今日はTADSとそれに付随する銃の使い方を学びます。
+ah94-tutorials:ah94tut_wpnTads:-1348062166,Text from a tutorial.,"To make things easy, we can do this all here on the ground so you don't have to worry about flying.","簡単にできるよう、すべてこの地上で行えるようにしました。"
+ah94-tutorials:ah94tut_wpnTads:2100509273,Text from a tutorial.,Switch Seat,シート交代
+ah94-tutorials:ah94tut_wpnTads:-1392231876,Text from a tutorial.,Battery ON,バッテリー ON
+ah94-tutorials:ah94tut_wpnTads:-1262370107,Text from a tutorial.,APU ON,APU ON
+ah94-tutorials:ah94tut_wpnTads:-827232670,Text from a tutorial.,Turn ON,ターンON
+ah94-tutorials:ah94tut_wpnTads:-701257300,Text from a tutorial.,"For this tutorial, let's turn on some hints so you can see what the controls do.","このチュートリアルでは、ヒントをオンにして、コントロールが何をするものかを確認しましょう。"
+ah94-tutorials:ah94tut_wpnTads:-301480733,Text from a tutorial.,Open OPTION,オープン OPTION
+AH-94_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,ユニットオプション
+AH-94_mfd_options:R2_tooltip,Tooltip for an MFD button.,Toggle Joystick Mode,ジョイスティックモード切替
+AH-94_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,燃料設定
+AH-94_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,高度警告設定
+AH-94_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,ジョイスティック感度
+AH-94_mfd_options:R4_tooltip,Tooltip for an MFD button.,Control Hints,ヒントのコントロール
+AH-94_mfd_options:R5_tooltip,Tooltip for an MFD button.,Bail When Spinning,緊急脱出
+ah94-tutorials:ah94tut_wpnTads:1394205321,Text from a tutorial.,Enable,
+ah94-tutorials:ah94tut_wpnTads:351895004,Text from a tutorial.,"This will show labels when you grab the collective, cyclic, or TEDAC, and can be on or off at any time.","コレクティブ、サイクリック、TEDACをつかうとラベルが表示され、いつでもオン・オフが可能です。"
+ah94-tutorials:ah94tut_wpnTads:-911428210,Text from a tutorial.,"The primary targeting system is the TADS and you'll most often be using it on the TEDAC, which stands for TADS electronic display and contro","主なターゲティングシステムはTADSで、TEDAC（TADS electronic display and controlの略）で使用することが多いようです。"
+ah94-tutorials:ah94tut_wpnTads:-664073648,Text from a tutorial.,This is the TEDAC,
+ah94-tutorials:ah94tut_wpnTads:1809041364,Text from a tutorial.,Open TADS,TADS をオープン
+ah94-tutorials:ah94tut_wpnTads:-1740825212,Text from a tutorial.,Power ON,パワー ON
+ah94-tutorials:ah94tut_wpnTads:1317350979,Text from a tutorial.,Set SOI,セット SOI
+ah94-tutorials:ah94tut_wpnTads:-373691224,Text from a tutorial.,This works just like the TGP in the other vehicles except that the SOI controls are on the left hand.,これは、SOIの操作が左手であることを除けば、他の機体のTGPと同じように機能します。
+ah94-tutorials:ah94tut_wpnTads:-1399022260,Text from a tutorial.,Grab,握る
+ah94-tutorials:ah94tut_wpnTads:-191560782,Text from a tutorial.,"While the TEDAC controls are held, use the left thumb control to slew the sensor, and the right thumb control to zoom in and out.","TEDACコントロールを保持したまま、左手親指コントロールでセンサーのスルー、右手親指コントロールでズームイン・ズームアウトを行うことができます。"
+ah94-tutorials:ah94tut_wpnTads:-1622263427,Text from a tutorial.,Press ARM,ARM 押す
+ah94-tutorials:ah94tut_wpnTads:1082325745,Text from a tutorial.,"Switch weapons by using the thumb button on the right hand TEDAC control, and fire by using the right trigger.","右手TEDACコントロールのサムボタンで武器を切り替え、右トリガーで発射します。"
+ah94-tutorials:ah94tut_wpnTads:402684234,Text from a tutorial.,Fire and switch weapons on cyclic.,サイクリックで発射、武器切替。
+ah94-tutorials:ah94tut_wpnTads:-925902430,Text from a tutorial.,Switch to GAU-94,GAU-94 に切替
+ah94-tutorials:ah94tut_wpnTads:771897916,Text from a tutorial.,"Let's make sure that the gun is in slave mode, so the turret will point where we want it.","銃がスレーブモードであることを確認し、タレットが望む場所に向くようにしましょう。"
+ah94-tutorials:ah94tut_wpnTads:10670878,Text from a tutorial.,Open EQUIP,装備画面を開く
+ah94-tutorials:ah94tut_wpnTads:595536078,Text from a tutorial.,Select,
+AH-94_mfd_hardpointInfoPage:R1,Label for an MFD button (short!).,BACK,
+AH-94_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,装備画面に戻る
+AH-94_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,武器の切替
+AH-94_mfd_hardpointInfoPage:B4_tooltip,Tooltip for an MFD button.,Toggle Jettison,廃棄モードの切替
+ah94-tutorials:ah94tut_wpnTads:-1793963392,Text from a tutorial.,Set to SLAVED,SLAVED モードにセット
+ah94-tutorials:ah94tut_wpnTads:-1196292903,Text from a tutorial.,"When the gun is slaved, it will either track to where your head is pointing, or to where the TADS is pointing, when the TADS is the SOI.","銃がスレーブ化されると、TADSがSOIの場合、頭の向いているところか、TADSの向いているところのどちらかに追従するようになります。"
+ah94-tutorials:ah94tut_wpnTads:1418409134,Text from a tutorial.,"Use the TADS to find and designate the target on the range, and use the right trigger to fire.","TADSで射撃場のターゲットを見つけて指定し、右のトリガーで発射します。"
+ah94-tutorials:ah94tut_wpnTads:771605333,Text from a tutorial.,Disable SOI,
+ah94-tutorials:ah94tut_wpnTads:-682086378,Text from a tutorial.,Shoot the target to your left.,左側にあるターゲットを撃ってください。
+ah94-tutorials:ah94tut_wpnTads:1376833237,Text from a tutorial.,"You can also set the TADS as SOI and enabled HEAD mode to have the TADS track your head, and display it's view in your HMD.","また、TADSをSOIに設定し、HEADモードを有効にすると、TADSが頭部を追従し、HMDにその様子を表示することが可能です。"
+ah94-tutorials:ah94tut_wpnTads:-485937947,Text from a tutorial.,Enable HEAD,
+ah94-tutorials:ah94tut_wpnTads:-1594112217,Text from a tutorial.,"When in this mode, pressing in on the left thumbstick on the TEDAC will lock the TADS to where you've pointed it.","このモードでは、TEDACの左手親指を押し込むと、TADSが指した場所にロックされます。"
+ah94-tutorials:ah94tut_wpnTads:1829211586,Text from a tutorial.,"As you can see, the TADS and the Weapons can be controlled independently or in unison.","このように、TADSとWeaponsは独立して、あるいは一体となって制御することが可能です。"
+ah94-tutorials:ah94tut_wpnTads:-834559807,Text from a tutorial.,"If you have a copilot, you or your copilot can take control of either system by using the SOI button and the master ARM button respectively.","副操縦士がいる場合は、あなたまたは副操縦士がそれぞれSOIボタンとマスターARMボタンでどちらのシステムも制御することが可能です。"
+ah94-tutorials:ah94tut_wpnTads:-1785795640,Text from a tutorial.,"You have control = RED
+Copilot has control = YELLOW","あなたがコントロール中＝赤色
+副操縦士がコントロール中＝YELLOW"
+ah94-tutorials:ah94tut_wpnTads:141827971,Text from a tutorial.,Destroy the other targets.,他のターゲットを破壊する。
+ah94-tutorials:ah94tut_wpnTads:-1659730406,Text from a tutorial.,Same functions as TEDAC L,TEDAC Lと同じ機能
+ah94-tutorials:ah94tut_wpnTads:1757970913,Text from a tutorial.,Same functions as TEDAC R except trim,トリミング以外はTEDAC Rと同じ機能
+ah94-tutorials:ah94tut_wpnTads:881401209,Text from a tutorial.,"That's all for today!
+Go practice!","今日はこれでおしまいです。
+訓練頑張ってください。"
