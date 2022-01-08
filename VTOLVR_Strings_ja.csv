@@ -3506,11 +3506,11 @@ ah94-tutorials:ah94tut_startup:-942756284,Text from a tutorial.,"You don't need 
  ロータースピードを維持するために適切なスロットルが適用されます。"
 ah94-tutorials:ah94tut_startup:963997311,Text from a tutorial.,Just leave the power lever in the flight position and the system handles it for you.,パワーレバーをフライトポジションにしておくだけで、システムが自動で処理してくれます。
 ah94-tutorials:ah94tut_startup:-1751880937,Text from a tutorial.,APU OFF,APU OFF
-ah94-tutorials:ah94tut_startup:-827232670,Text from a tutorial.,Turn ON,ターンON
+ah94-tutorials:ah94tut_startup:-827232670,Text from a tutorial.,Turn ON,スイッチ ON
 ah94-tutorials:ah94tut_startup:-1779762556,Text from a tutorial.,HMD ON,HMD ON
 ah94-tutorials:ah94tut_startup:-1473571446,Text from a tutorial.,"At this point, the helicopter is ready to take off!","この時点で、ヘリコプターの離陸準備は完了です!"
 ah94-tutorials:ah94tut_startup:37837222,Text from a tutorial.,"We can practice taking off and hovering in another session, so let's go over the shut down procedure.","離陸やホバリングの練習は別の回で行うとして、シャットダウンの手順を確認しましょう。"
-ah94-tutorials:ah94tut_startup:-47447016,Text from a tutorial.,Turn OFF,ターンOFF
+ah94-tutorials:ah94tut_startup:-47447016,Text from a tutorial.,Turn OFF,スイッチ OFF
 ah94-tutorials:ah94tut_startup:1313663526,Text from a tutorial.,HMD OFF,HMD OFF
 ah94-tutorials:ah94tut_startup:-2028233962,Text from a tutorial.,UFD OFF,UFD OFF
 ah94-tutorials:ah94tut_startup:-1101578338,Text from a tutorial.,Power Lever OFF,パワーレバー OFF
@@ -3525,7 +3525,7 @@ ah94-tutorials:ah94tut_wpnTads:-1348062166,Text from a tutorial.,"To make things
 ah94-tutorials:ah94tut_wpnTads:2100509273,Text from a tutorial.,Switch Seat,シート交代
 ah94-tutorials:ah94tut_wpnTads:-1392231876,Text from a tutorial.,Battery ON,バッテリー ON
 ah94-tutorials:ah94tut_wpnTads:-1262370107,Text from a tutorial.,APU ON,APU ON
-ah94-tutorials:ah94tut_wpnTads:-827232670,Text from a tutorial.,Turn ON,ターンON
+ah94-tutorials:ah94tut_wpnTads:-827232670,Text from a tutorial.,Turn ON,スイッチ ON
 ah94-tutorials:ah94tut_wpnTads:-701257300,Text from a tutorial.,"For this tutorial, let's turn on some hints so you can see what the controls do.","このチュートリアルでは、ヒントをオンにして、コントロールが何をするものかを確認しましょう。"
 ah94-tutorials:ah94tut_wpnTads:-301480733,Text from a tutorial.,Open OPTION,オープン OPTION
 AH-94_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,ユニットオプション
