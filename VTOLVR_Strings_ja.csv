@@ -2826,8 +2826,8 @@ ah94-tutorials:ah94tut_intro_name,Name of a mission.,Introduction,はじめに
 ah94-tutorials:ah94tut_intro_description,Description of a mission.,"Introduction to the vehicle, and a general overview of the cockpit.","機体の紹介、コックピットの概要などを説明します。"
 AH-94:ah94-tutorials:ah94tut_intro:obj_0:name,A mission objective name,Introduction,はじめに
 AH-94:ah94-tutorials:ah94tut_intro:obj_0:info,Mission objective info.,Complete the tutorial.,チュートリアルを完了する。
-ah94-tutorials:ah94tut_startup_name,Name of a mission.,Start Up/Shut Down,スタートアップ/シャットダウン
-ah94-tutorials:ah94tut_startup_description,Description of a mission.,How to start up and shut down the AH-94.,AH-94の起動・停止方法について。
+ah94-tutorials:ah94tut_startup_name,Name of a mission.,Start Up/Shut Down,起動と終了手順
+ah94-tutorials:ah94tut_startup_description,Description of a mission.,How to start up and shut down the AH-94.,AH-94の起動と停止方法について。
 AH-94:ah94-tutorials:ah94tut_startup:obj_0:name,A mission objective name,Tutorial,チュートリアル
 AH-94:ah94-tutorials:ah94tut_startup:obj_0:info,Mission objective info.,Complete the tutorial.,チュートリアルを完了する。
 ah94-tutorials:ah94tut_wpnTads_name,Name of a mission.,TADS and Gun,TADSと銃器
@@ -2835,7 +2835,7 @@ ah94-tutorials:ah94tut_wpnTads_description,Description of a mission.,Control the
 ah94-tutorials_ah94tut_intro_b0,Text from a mission briefing.,Learn about the AH-94 and take a quick look at each of the components in the cockpit.,AH-94について学び、コックピット内の各構成部品をざっと見てみましょう。
 ah94-tutorials_ah94tut_startup_b0,Text from a mission briefing.,"Learn the steps to properly start up the engines, spin up the rotor, and safely turn everything off.","エンジンの始動からローターの回転、そして安全に電源を切るまでの手順を学ぶことができます。"
 ah94-tutorials_ah94tut_wpnTads_b0,Text from a mission briefing.,"Learn about the TADS, controlling it with the TEDAC, and steering the gun turret.","TADSについて、TEDACによる制御、砲塔の操作についてご紹介します。"
-quickMPFlights:45_pveStrike_name,Name of a mission.,F-45 Cooperative Mission,F-45 協同ミッション
+quickMPFlights:45_pveStrike_name,Name of a mission.,F-45 Cooperative Mission,F-45 COOPミッション
 quickMPFlights:45_pveStrike_description,Description of a mission.,Use cooperation and the advanced capabilities of the F-45A to complete various objectives.,協力とF-45Aの高度な能力を駆使して、さまざまな目標をクリアしてください。
 F/A-26B:quickMPFlights:45_pveStrike:obj_0:name,A mission objective name,Strike,ストライク
 F/A-26B:quickMPFlights:45_pveStrike:obj_0:info,Mission objective info.,Destroy bunkers and supply tents at enemy airbase.,敵の空軍基地のバンカーと補給テントを破壊せよ。
@@ -2851,7 +2851,7 @@ F/A-26B:quickMPFlights:airshowFreeflight:obj_0:name,A mission objective name,Fre
 F/A-26B:quickMPFlights:airshowFreeflight:obj_0:info,Mission objective info.,Have fun! Be nice!,楽しみましょう！
 quickMPFlights:mp_navalMission_name,Name of a mission.,F/A-26B Naval Strike Mission,F/A-26B ナバルストライクミッション
 quickMPFlights:mp_navalMission_description,Description of a mission.,Fly strike missions off the Aircraft Carrier with your buddies.,仲間と一緒に空母からの攻撃作戦を決行しよう。
-F/A-26B:quickMPFlights:mp_navalMission:obj_1:name,A mission objective name,Hidden Bunkers,隠しバンカー
+F/A-26B:quickMPFlights:mp_navalMission:obj_1:name,A mission objective name,Hidden Bunkers,隠されたバンカー
 F/A-26B:quickMPFlights:mp_navalMission:obj_1:info,Mission objective info.,Destroy the enemy's secret bunkers hidden in the caldera.,カルデラに隠された敵の秘密基地を破壊せよ。
 F/A-26B:quickMPFlights:mp_navalMission:obj_2:name,A mission objective name,Mine Laying Vessels,機雷敷設船
 F/A-26B:quickMPFlights:mp_navalMission:obj_2:info,Mission objective info.,Destroy the mine laying ships parked in the bay.,港に停まっている機雷敷設艦を破壊する。
@@ -2875,9 +2875,7 @@ quickMPFlights_45_pveStrike_b2,Text from a mission briefing.,"A convoy of tanks 
 quickMPFlights_45_pveStrike_b3,Text from a mission briefing.,"At your discretion, complete the rest of the mission by finding and destroying the numerous hostile aircraft, and finally busting the bunkers and supply depots at the enemy base.","自分の判断で、多数の敵機を発見して破壊し、最後に敵基地のバンカーや補給基地を破壊して、残りのミッションをクリアしてください。"
 quickMPFlights_airshowFreeflight_b0,Text from a mission briefing.,"This is a freeflight scenario with no objectives.
 
-A","このシナリオは、目標を持たないフリーフライトのシナリオです。
-
-A"
+A","このシナリオは、目標を持たないフリーフライトのシナリオです。"
 quickMPFlights_mp_navalMission_b0,Text from a mission briefing.,"The carrier strike group has arrived at the enemy's doorstep in the northern sea.
 
 Launch with your wingmen and take on the various objectives.","空母打撃群は北方海域の敵の前に到着した。
